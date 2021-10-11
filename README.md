@@ -44,3 +44,13 @@
 
 ## BS21
 * F21
+
+## Useful resources
+* Student Union news channel
+    * [@suiu_news](https://t.me/joinchat/VB5Bp3PXbODTmOwj)
+* Mathcha - online simple WYSIWYG $Latex$ editor
+    * [Learn more](https://www.mathcha.io/)
+    * [Try online](https://www.mathcha.io/editor/7m8gEU4Pi24Imot6Yv7kPTzVLwBI4o5ZV9hwBX9jD)
+
+## Suggestions?
+* Send Pull Request with comments!
