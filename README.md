@@ -1,6 +1,6 @@
 # Notes
 
-## [BS19](#BS19)
+## BS19
 * F20
     * PS ([@daniladanko](https://t.me/daniladanko))
         * [Materials](https://drive.google.com/drive/u/0/folders/1llFZPdrxiuD_9aPAFbZ_mcIJjUHB2-NE)
@@ -28,7 +28,7 @@
     * ML 
         * [Materials](https://drive.google.com/drive/folders/19MUatOCVYBHUk3cKED9GLE1r-Dj5lP8A?usp=sharing)
 
-## [BS20](#BS20)
+## BS20
 * F20
     * MA I 
         * [Materials](https://drive.google.com/drive/folders/1P1CK8iWA8oy_rgL2gyPqHm9E3qo8hxqZ?usp=sharing)
