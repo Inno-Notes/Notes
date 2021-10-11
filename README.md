@@ -59,8 +59,8 @@
 ## Useful resources
 * Student Union news channel
     * [@suiu_news](https://t.me/joinchat/VB5Bp3PXbODTmOwj)
-* [Mathcha](https://www.mathcha.io/) - online simple WYSIWYG *LaTeX* editor
-    * [Try online](https://www.mathcha.io/editor/7m8gEU4Pi24Imot6Yv7kPTzVLwBI4o5ZV9hwBX9jD)
+* [Mathcha](https://www.mathcha.io/) - simple online WYSIWYG *LaTeX* editor
+    * [Try here](https://www.mathcha.io/editor/7m8gEU4Pi24Imot6Yv7kPTzVLwBI4o5ZV9hwBX9jD)
 
 ## Suggestions?
 * Send Pull Request with comments!
