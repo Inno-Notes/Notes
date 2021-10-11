@@ -37,6 +37,9 @@
         * [Materials](https://drive.google.com/drive/folders/1YSUDfduUBSkzT7ksgT8CQkSCCRoka53C?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEbzrpqphMWQ06p70RtXRDwR)
 * S21
+    * MA II
+        * [Lectures](https://drive.google.com/folderview?id=187FCJx1KsVX296aUT9oP4QVzknO8ivxN)
+        * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4Pap_gvxY2TTxZmyZ6VluPGgQ)
 * F21
 
 ## BS21
