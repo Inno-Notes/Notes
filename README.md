@@ -2,6 +2,9 @@
 
 
 ## BS19
+* F19
+    * Text and pictures ([@arantirar](https://t.me/arantirar) and others)
+        * [@b19lectut](http://t.me/b19lectut)
 * S20
     * [How it began...](https://docs.google.com/spreadsheets/d/1nXFWp9TzYVonFIEJUcCxljtvYfa2U5urXCwc6GUrNb8/edit?usp=sharing)
     * MA II
