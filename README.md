@@ -1,10 +1,6 @@
 # Notes
 
 ## [BS19](#BS19)
-* S20
-    *
-    *
-    *
 * F20
     * PS ([@daniladanko](https://t.me/daniladanko))
         * [Materials](https://drive.google.com/drive/u/0/folders/1llFZPdrxiuD_9aPAFbZ_mcIJjUHB2-NE)
@@ -34,6 +30,12 @@
 
 ## [BS20](#BS20)
 * F20
+    * MA I 
+        * [Materials](https://drive.google.com/drive/folders/1P1CK8iWA8oy_rgL2gyPqHm9E3qo8hxqZ?usp=sharing)
+        * Professor's [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv)
+    * Calculus I ([@Ramdau](https://t.me/Ramdau))
+        * [Materials](https://drive.google.com/drive/folders/1YSUDfduUBSkzT7ksgT8CQkSCCRoka53C?usp=sharing)
+        * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEbzrpqphMWQ06p70RtXRDwR)
 * S21
 * F21
 
