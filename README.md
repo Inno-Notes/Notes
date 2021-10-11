@@ -49,9 +49,9 @@
 ## Useful resources
 * Student Union news channel
     * [@suiu_news](https://t.me/joinchat/VB5Bp3PXbODTmOwj)
-* Mathcha - online simple WYSIWYG $\LaTeX$ editor
-    * [Learn more](https://www.mathcha.io/)
+* [Mathcha](https://www.mathcha.io/) - online simple WYSIWYG *LaTeX* editor
     * [Try online](https://www.mathcha.io/editor/7m8gEU4Pi24Imot6Yv7kPTzVLwBI4o5ZV9hwBX9jD)
 
 ## Suggestions?
 * Send Pull Request with comments!
+* You may help by collecting course materials you'd like to share. Just don't forget to ask course instructors' permission to share them.
