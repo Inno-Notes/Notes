@@ -1,5 +1,6 @@
 # Notes
 
+
 ## BS19
 * F20
     * PS ([@daniladanko](https://t.me/daniladanko))
@@ -30,7 +31,7 @@
 
 ## BS20
 * F20
-    * MA I 
+    * MA I
         * [Materials](https://drive.google.com/drive/folders/1P1CK8iWA8oy_rgL2gyPqHm9E3qo8hxqZ?usp=sharing)
         * Professor's [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv)
     * Calculus I ([@Ramdau](https://t.me/Ramdau))
@@ -48,7 +49,7 @@
 ## Useful resources
 * Student Union news channel
     * [@suiu_news](https://t.me/joinchat/VB5Bp3PXbODTmOwj)
-* Mathcha - online simple WYSIWYG $Latex$ editor
+* Mathcha - online simple WYSIWYG $\LaTeX$ editor
     * [Learn more](https://www.mathcha.io/)
     * [Try online](https://www.mathcha.io/editor/7m8gEU4Pi24Imot6Yv7kPTzVLwBI4o5ZV9hwBX9jD)
 
