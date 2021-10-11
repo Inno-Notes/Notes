@@ -7,6 +7,8 @@
     * MA II
         * [Materials](https://drive.google.com/drive/folders/1KUTBfqlyPGU3aRYAtAkZJ_eJdGMTfmEc?usp=sharing)
         * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEag1Wc9ohTtmZkovLuZMAEG)
+    * AGLA
+        * [Materials](https://drive.google.com/drive/folders/1Aett2JkUYeKpXc6Px4O-urqzzvKbzp_b?usp=sharing)
 * F20
     * PS ([@daniladanko](https://t.me/daniladanko))
         * [Materials](https://drive.google.com/drive/u/0/folders/1llFZPdrxiuD_9aPAFbZ_mcIJjUHB2-NE)
