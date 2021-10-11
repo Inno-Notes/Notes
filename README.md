@@ -15,9 +15,14 @@
     * DE ([@Igor_Parfenov](https://t.me/Igor_Parfenov))
         * [Labs](https://drive.google.com/drive/folders/1q58m0OOjqCSV5QjTzmKTBDyzLo6IvJC9?usp=sharing)
 * S21
-    *
-    *
-    *
+    * AI 
+        * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4Paovn_wKttoAg3IrHTZSPMjy)
+    * Physics II - EE
+        * [Materials](https://drive.google.com/folderview?id=1B9F1IU4YXGLxaEU__3X-JYwWvgYTh5O4)
+    * DB
+        * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4ParNWZqsxD-j6MzP9nf7pV7t)
+    * CT
+        * [Repo](https://github.com/SergeiSa/Control-Theory-Slides-Spring-2021)
 * F21
     *
     *
