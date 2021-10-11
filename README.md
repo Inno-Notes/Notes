@@ -2,6 +2,11 @@
 
 
 ## BS19
+* S20
+    * [How it began...](https://docs.google.com/spreadsheets/d/1nXFWp9TzYVonFIEJUcCxljtvYfa2U5urXCwc6GUrNb8/edit?usp=sharing)
+    * MA II
+        * [Materials](https://drive.google.com/drive/folders/1KUTBfqlyPGU3aRYAtAkZJ_eJdGMTfmEc?usp=sharing)
+        * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEag1Wc9ohTtmZkovLuZMAEG)
 * F20
     * PS ([@daniladanko](https://t.me/daniladanko))
         * [Materials](https://drive.google.com/drive/u/0/folders/1llFZPdrxiuD_9aPAFbZ_mcIJjUHB2-NE)
