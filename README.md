@@ -41,7 +41,7 @@
 
 ## BS20
 * F20
-    * MA I
+    * MA I ([@Rescuemybrain](https://t.me/Rescuemybrain))
         * [Materials](https://drive.google.com/drive/folders/1P1CK8iWA8oy_rgL2gyPqHm9E3qo8hxqZ?usp=sharing)
         * Professor's [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv)
     * Calculus I ([@Ramdau](https://t.me/Ramdau))
