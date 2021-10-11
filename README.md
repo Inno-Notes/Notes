@@ -49,7 +49,7 @@
         * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEbzrpqphMWQ06p70RtXRDwR)
 * S21
     * MA II
-        * [Lectures](https://drive.google.com/folderview?id=187FCJx1KsVX296aUT9oP4QVzknO8ivxN)
+        * [Materials](https://drive.google.com/drive/folders/17vd4xuf2lCfK0jJ7RBV2dmlQvYbpXDVi?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4Pap_gvxY2TTxZmyZ6VluPGgQ)
 * F21
 
