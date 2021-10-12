@@ -14,6 +14,11 @@
         * Contact-Aware Control
             * [repo](https://github.com/SergeiSa/Contact-Aware-Control-Slides-Fall-2020)
 
+## BS18
+* RO-01
+    * TM
+        * [Lab videos](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K)
+
 ## BS19
 * F19
     * Text and pictures ([@arantirar](https://t.me/arantirar) and others)
