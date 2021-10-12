@@ -16,7 +16,7 @@
             * [repo](https://github.com/SergeiSa/Contact-Aware-Control-Slides-Fall-2020)
 
 ## BS18
-* F19-S20+
+* ### F19-S20+
     * [Meta-repo](https://github.com/hany606/University-Courses-Repositories)
 * F20
     * RO-01
@@ -47,6 +47,8 @@
     * MA II
         * [Materials](https://drive.google.com/drive/folders/1KUTBfqlyPGU3aRYAtAkZJ_eJdGMTfmEc?usp=sharing)
         * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEag1Wc9ohTtmZkovLuZMAEG)
+    * AGLA
+        * [Materials](https://drive.google.com/drive/folders/1Aett2JkUYeKpXc6Px4O-urqzzvKbzp_b?usp=sharing)
 * F20
     * PS ([br4ch1st0chr0n3](https://github.com/br4ch1st0chr0n3))
         * [Materials](https://drive.google.com/drive/u/0/folders/1llFZPdrxiuD_9aPAFbZ_mcIJjUHB2-NE)
@@ -56,9 +58,6 @@
         * [Playlist](https://www.youtube.com/playlist?list=PLNh4MTycRwFC3nc0sv_0--T7OuLHxMkMK)
     * DE ([ParfenovIgor](https://github.com/ParfenovIgor))
         * [Labs](https://drive.google.com/drive/folders/1q58m0OOjqCSV5QjTzmKTBDyzLo6IvJC9?usp=sharing)
-    * AGLA
-        * [Materials](https://drive.google.com/drive/folders/1Aett2JkUYeKpXc6Px4O-urqzzvKbzp_b?usp=sharing)
-        * [Lab playlist](https://youtube.com/playlist?list=PLtFS7FHavVl-VXiod2y_fZTAVClyEXB-0)
 * S21
     * AI 
         * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4Paovn_wKttoAg3IrHTZSPMjy)
@@ -89,6 +88,8 @@
     * Calculus I ([RamilDautov](https://github.com/RamilDautov))
         * [Materials](https://drive.google.com/drive/folders/1YSUDfduUBSkzT7ksgT8CQkSCCRoka53C?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEbzrpqphMWQ06p70RtXRDwR)
+    * EAGLA
+        * [Lab playlist](https://youtube.com/playlist?list=PLtFS7FHavVl-VXiod2y_fZTAVClyEXB-0)
 * S21
     * MA II
         * [Materials](https://drive.google.com/drive/folders/17vd4xuf2lCfK0jJ7RBV2dmlQvYbpXDVi?usp=sharing)
