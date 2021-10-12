@@ -20,7 +20,7 @@
     * [Meta-repo](https://github.com/hany606/University-Courses-Repositories)
 * F20
     * RO-01
-        * TM ([@Lupasic](https://t.me/Lupasic))
+        * TM ([Lupasic](https://github.com/Lupasic))
             * [Lab videos](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K)
             * [Assignments repo](https://github.com/hany606/TM_Fall20IU)
         * FR
@@ -29,7 +29,7 @@
         * [Assignments repo](https://github.com/hany606/Introduction-to-Machine-Learning-IML_Fall20IU)
 
 * F21
-    * Numerical modeling ([@hany606](https://t.me/hany606))
+    * Numerical modeling ([hany606](https://github.com/hany606))
         * [Assignments repo](https://github.com/hany606/NM_Fall21IU)
     * PMLDL
         * [Assignments repo](https://github.com/hany606/PMLDL_Fall21IU)
@@ -40,7 +40,7 @@
 
 ## BS19
 * F19
-    * Text and pictures ([@arantirar](https://t.me/arantirar) and others)
+    * Text and pictures ([Delviet](https://github.com/Delviet) and others)
         * [@b19lectut](http://t.me/b19lectut)
 * S20
     * [How it began...](https://docs.google.com/spreadsheets/d/1nXFWp9TzYVonFIEJUcCxljtvYfa2U5urXCwc6GUrNb8/edit?usp=sharing)
@@ -48,13 +48,13 @@
         * [Materials](https://drive.google.com/drive/folders/1KUTBfqlyPGU3aRYAtAkZJ_eJdGMTfmEc?usp=sharing)
         * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEag1Wc9ohTtmZkovLuZMAEG)
 * F20
-    * PS ([@daniladanko](https://t.me/daniladanko))
+    * PS ([br4ch1st0chr0n3](https://github.com/br4ch1st0chr0n3))
         * [Materials](https://drive.google.com/drive/u/0/folders/1llFZPdrxiuD_9aPAFbZ_mcIJjUHB2-NE)
         * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEbWP1ov_FFfnPWZujSzF7jV)
-    * Physics I - Mechanics ([@vbazilevich](https://t.me/vbazilevich))
+    * Physics I - Mechanics ([vBazilevich](https://github.com/vBazilevich))
         * [Materials](https://drive.google.com/drive/folders/1qx8be_2yLGtZDlYD48Y3s4DdUIz3klgy?usp=sharing)
         * [Playlist](https://www.youtube.com/playlist?list=PLNh4MTycRwFC3nc0sv_0--T7OuLHxMkMK)
-    * DE ([@Igor_Parfenov](https://t.me/Igor_Parfenov))
+    * DE ([ParfenovIgor](https://github.com/ParfenovIgor))
         * [Labs](https://drive.google.com/drive/folders/1q58m0OOjqCSV5QjTzmKTBDyzLo6IvJC9?usp=sharing)
     * AGLA
         * [Materials](https://drive.google.com/drive/folders/1Aett2JkUYeKpXc6Px4O-urqzzvKbzp_b?usp=sharing)
@@ -83,10 +83,10 @@
 
 ## BS20
 * F20
-    * MA I ([@Rescuemybrain](https://t.me/Rescuemybrain))
+    * MA I ([Maruf-co](https://github.com/Maruf-co))
         * [Materials](https://drive.google.com/drive/folders/1P1CK8iWA8oy_rgL2gyPqHm9E3qo8hxqZ?usp=sharing)
         * Professor's [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv)
-    * Calculus I ([@Ramdau](https://t.me/Ramdau))
+    * Calculus I ([RamilDautov](https://github.com/RamilDautov))
         * [Materials](https://drive.google.com/drive/folders/1YSUDfduUBSkzT7ksgT8CQkSCCRoka53C?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEbzrpqphMWQ06p70RtXRDwR)
 * S21
