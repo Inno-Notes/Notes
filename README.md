@@ -39,6 +39,9 @@
         * [Playlist](https://www.youtube.com/playlist?list=PLNh4MTycRwFC3nc0sv_0--T7OuLHxMkMK)
     * DE ([@Igor_Parfenov](https://t.me/Igor_Parfenov))
         * [Labs](https://drive.google.com/drive/folders/1q58m0OOjqCSV5QjTzmKTBDyzLo6IvJC9?usp=sharing)
+    * AGLA
+        * [Materials](https://drive.google.com/drive/folders/1Aett2JkUYeKpXc6Px4O-urqzzvKbzp_b?usp=sharing)
+        * [Lab playlist](https://youtube.com/playlist?list=PLtFS7FHavVl-VXiod2y_fZTAVClyEXB-0)
 * S21
     * AI 
         * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4Paovn_wKttoAg3IrHTZSPMjy)
