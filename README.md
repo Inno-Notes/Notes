@@ -3,9 +3,10 @@
 ## Courses
 
 * [BS17](#BS17)
+* [BS18](#BS18)
 * [BS19](#BS19)
 * [BS20](#BS20)
-* [M20](#M20)
+* [MS20](#MS20)
 * [BS21](#BS21)
 
 ## BS17
@@ -74,7 +75,7 @@
         * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4Pap_gvxY2TTxZmyZ6VluPGgQ)
 * F21
 
-## M20
+## MS20
 * S21
     * RO-01
         * Computational Intelligence
