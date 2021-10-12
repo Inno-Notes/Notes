@@ -11,8 +11,8 @@
 ## BS17
 * F20
     * RO-01
-    * Contact-Aware Control
-        * [repo](https://github.com/SergeiSa/Contact-Aware-Control-Slides-Fall-2020)
+        * Contact-Aware Control
+            * [repo](https://github.com/SergeiSa/Contact-Aware-Control-Slides-Fall-2020)
 
 ## BS19
 * F19
