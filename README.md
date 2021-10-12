@@ -20,10 +20,21 @@
     * RO-01
         * TM ([@Lupasic](https://t.me/Lupasic))
             * [Lab videos](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K)
-            * [Assignments and Solutions repo](https://github.com/hany606/TM_Fall20IU)
+            * [Assignments repo](https://github.com/hany606/TM_Fall20IU)
+        * FR
+            * [Assignments repo](https://github.com/hany606/Introduction-to-Manipulators-FoR_Fall20IU)
+    * IML
+        * [Assignments repo](https://github.com/hany606/Introduction-to-Machine-Learning-IML_Fall20IU)
+
 * F21
     * Numerical modeling ([@hany606](https://t.me/hany606))
-        * [Assignments and Solutions repo](https://github.com/hany606/NM_Fall21IU)
+        * [Assignments repo](https://github.com/hany606/NM_Fall21IU)
+    * PMLDL
+        * [Assignments repo](https://github.com/hany606/PMLDL_Fall21IU)
+    * PAI
+        * [Assignments repo](https://github.com/hany606/PAI_Fall21IU)
+    * ICV 
+        [Assignments repo](https://github.com/hany606/ICV_Fall21IU)
 
 ## BS19
 * F19
