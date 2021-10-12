@@ -16,9 +16,14 @@
             * [repo](https://github.com/SergeiSa/Contact-Aware-Control-Slides-Fall-2020)
 
 ## BS18
-* RO-01
-    * TM
-        * [Lab videos](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K)
+* F20
+    * RO-01
+        * TM ([@Lupasic](https://t.me/Lupasic))
+            * [Lab videos](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K)
+            * [Assignments and Solutions repo](https://github.com/hany606/TM_Fall20IU)
+* F21
+    * Numerical modeling ([@hany606](https://t.me/hany606))
+        * [Assignments and Solutions repo](https://github.com/hany606/NM_Fall21IU)
 
 ## BS19
 * F19
