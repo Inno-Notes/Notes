@@ -38,6 +38,8 @@
         * [Final](https://reminiscent-sprite-516.notion.site/DNP-final-preparation-7dc3e8b17e544d56a0736e79dc4dcb06)
     * ML 
         * [Materials](https://drive.google.com/drive/folders/19MUatOCVYBHUk3cKED9GLE1r-Dj5lP8A?usp=sharing)
+    * SSAD
+        * [Playlist](https://youtube.com/playlist?list=PLaIsQH4uc08woJKRAA7mmjs9fU0jeKjjM)
 
 ## BS20
 * F20
