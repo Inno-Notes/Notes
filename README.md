@@ -106,6 +106,8 @@
 * F21
     * AGLA
         * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8l4q7Z_ja2ajzr4pRGGvYZ)
+    * MA I
+        * [Contribute solutions](./Contribute.md)
 
 ## Useful resources
 * Student Union news channel
