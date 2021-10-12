@@ -1,6 +1,6 @@
 # Notes
 
-## Table of contents
+## Courses
 
 * [BS17](#BS17)
 * [BS19](#BS19)
