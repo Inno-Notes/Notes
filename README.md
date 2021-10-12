@@ -16,7 +16,7 @@
             * [repo](https://github.com/SergeiSa/Contact-Aware-Control-Slides-Fall-2020)
 
 ## BS18
-* ### F19-S20+
+* F19-S20+
     * [Meta-repo](https://github.com/hany606/University-Courses-Repositories)
 * F20
     * RO-01
