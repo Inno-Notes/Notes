@@ -81,6 +81,8 @@
 
 ## BS21
 * F21
+    * AGLA
+        * [Lab playlist](https://docs.google.com/spreadsheets/d/11vEvCk5F_O5m5BON4PJLjfcx-4YjfjcBCPaoCxQtny4/)
 
 ## Useful resources
 * Student Union news channel
