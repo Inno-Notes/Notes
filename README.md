@@ -60,6 +60,12 @@
         * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4Pap_gvxY2TTxZmyZ6VluPGgQ)
 * F21
 
+## M20
+* S21
+    * RO-01
+        * Computational Intelligence
+            * [Playlist](https://youtu.be/YB-Pm6dPR7s)
+
 ## BS21
 * F21
 
