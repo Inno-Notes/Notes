@@ -51,9 +51,10 @@
     * CT
         * [Repo](https://github.com/SergeiSa/Control-Theory-Slides-Spring-2021)
 * F21
-    * TM
-        * [Lab Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl_DAnHFNvqVZMaEPHdYuhH6)
-        * [Lab Solutions](https://www.mathcha.io/editor/D0kgysy7UqlHl4FW5YKO1IxK6nOdsENj9NPtoM1x2e)
+    * RO-01
+        * TM
+            * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl_DAnHFNvqVZMaEPHdYuhH6)
+            * [Lab Solutions](https://www.mathcha.io/editor/D0kgysy7UqlHl4FW5YKO1IxK6nOdsENj9NPtoM1x2e)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text">
     * DNP
         * [Final](https://reminiscent-sprite-516.notion.site/DNP-final-preparation-7dc3e8b17e544d56a0736e79dc4dcb06)
     * ML 
