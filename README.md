@@ -115,5 +115,5 @@
 
 ## Suggestions?
 * Send Pull Request with comments!
-* We need solutions for MA I, MA II. You may attach to PR a link with your solutions stored in a cloud drive
-* You may help by collecting course materials you'd like to share. Just don't forget to ask course instructors' permission to share them.
+* We need solutions for MA I, MA II! Please, [contribute here](./Contribute.md).
+* You may help by collecting course materials you'd like to share (preferably math-related). Just don't forget to ask course instructors' permission to share them.
