@@ -40,7 +40,7 @@
 
 ## BS19
 * F19
-    * Text and pictures ([Delviet](https://github.com/Delviet) and others)
+    * Text and pictures ([Delviet](https://github.com/Delviet), [seytkalievm](https://github.com/seytkalievm))
         * [@b19lectut](http://t.me/b19lectut)
 * S20
     * [How it began...](https://docs.google.com/spreadsheets/d/1nXFWp9TzYVonFIEJUcCxljtvYfa2U5urXCwc6GUrNb8/edit?usp=sharing)
