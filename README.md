@@ -103,7 +103,7 @@
 ## BS21
 * F21
     * AGLA
-        * [Lab playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8l4q7Z_ja2ajzr4pRGGvYZ)
+        * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8l4q7Z_ja2ajzr4pRGGvYZ)
 
 ## Useful resources
 * Student Union news channel
