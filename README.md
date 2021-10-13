@@ -117,6 +117,6 @@
     * [Try here](https://www.mathcha.io/editor/7m8gEU4Pi24Imot6Yv7kPTzVLwBI4o5ZV9hwBX9jD)
 
 ## Suggestions?
-* Send Pull Request with comments!
+* Fork this repository, create a new branch, commit your changes and send a Pull Request!
 * We need solutions for MA I, MA II! Please, [contribute here](./Contribute.md).
 * You may help by collecting course materials you'd like to share (preferably math-related). Just don't forget to ask course instructors' permission to share them.
