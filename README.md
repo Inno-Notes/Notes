@@ -79,7 +79,7 @@
     * ML 
         * [Materials](https://drive.google.com/drive/folders/19MUatOCVYBHUk3cKED9GLE1r-Dj5lP8A?usp=sharing)
     * SSAD
-        * [Playlist](https://youtube.com/playlist?list=PLaIsQH4uc08woJKRAA7mmjs9fU0jeKjjM)
+        * [repo](https://github.com/yegor256/ssd16)
 
 ## BS20
 * F20
