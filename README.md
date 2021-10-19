@@ -2,12 +2,22 @@
 
 ## Courses
 
+* [BS?](#BS?)
 * [BS17](#BS17)
 * [BS18](#BS18)
 * [BS19](#BS19)
 * [BS20](#BS20)
 * [MS20](#MS20)
 * [BS21](#BS21)
+
+## BS?
+* S?
+    * ML
+        * [repo](https://github.com/yandexdataschool/MLatImperial2020)
+        * [lectures](https://github.com/yandexdataschool/MLatImperial2020/tree/master/Lectures)
+* S18
+    * CA 
+        * [wiki](https://github.com/InnopolisStudents/wiki/tree/master/computer_architecture)
 
 ## BS17
 * F20
