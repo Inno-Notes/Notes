@@ -120,11 +120,12 @@
     * MA I
         * [Contribute solutions](./Contribute.md)
 
-## Useful resources
+## Other resources
 * Student Union news channel
     * [@suiu_news](https://t.me/suiu_news)
 * [Mathcha](https://www.mathcha.io/)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text"> - simple online WYSIWYG *LaTeX* editor
     * [Try here](https://www.mathcha.io/editor/7m8gEU4Pi24Imot6Yv7kPTzVLwBI4o5ZV9hwBX9jD)
+* [Random](./Random.md)
 
 ## Suggestions?
 * Fork this repository, create a new branch, commit your changes and send a Pull Request!
