@@ -1,5 +1,7 @@
 # Notes
 
+like little ⭐
+
 ## Courses
 
 * [BS?](#BS?)
