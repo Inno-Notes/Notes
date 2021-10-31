@@ -4,13 +4,13 @@ like little ⭐
 
 ## Courses
 
-* [BS?](#BS?)
-* [BS17](#BS17)
-* [BS18](#BS18)
-* [BS19](#BS19)
-* [BS20](#BS20)
-* [MS20](#MS20)
-* [BS21](#BS21)
+* [BS?](#bs?)
+* [BS17](#bs17)
+* [BS18](#bs18)
+* [BS19](#bs19)
+* [BS20](#bs20)
+* [MS20](#ms20)
+* [BS21](#bs21)
 
 ## BS?
 * S?
