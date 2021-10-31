@@ -107,7 +107,6 @@ like little ⭐
     * MA II
         * [Materials](https://drive.google.com/drive/folders/17vd4xuf2lCfK0jJ7RBV2dmlQvYbpXDVi?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4Pap_gvxY2TTxZmyZ6VluPGgQ)
-* F21
 
 ## MS20
 * S21
