@@ -4,7 +4,7 @@ like little ⭐
 
 ## Courses
 
-* [BS?](#bs%3F)
+* [BS?](#bs)
 * [BS17](#bs17)
 * [BS18](#bs18)
 * [BS19](#bs19)
