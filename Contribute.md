@@ -1,7 +1,7 @@
 # Contribution Page
 
 ## Goals
-* Collect neat solutions for all [MA I](https://drive.google.com/drive/folders/1E7eDMFbUxvii_fAwmKnawBc1z5YYQI8o?usp=sharing) and [MA II](https://drive.google.com/drive/folders/1LxuH-bsj-ewA9MVESP1inlvCcgOUvamc?usp=sharing) assignments
+* Collect neat solutions for all [MA I](https://drive.google.com/drive/folders/1E7eDMFbUxvii_fAwmKnawBc1z5YYQI8o?usp=sharing) and [MA II](https://drive.google.com/drive/folders/19Ehmvu6Ut1YgYdcMgwuObu44V5lzP_WI?usp=sharing) assignments
 
 ## Collaboration places
 * <a href="https://ibb.co/x6TZZZX"><img src="https://i.ibb.co/yqj222d/image.png" alt="image" width=400px></a>
