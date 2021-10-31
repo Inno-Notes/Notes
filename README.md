@@ -131,5 +131,5 @@ like little ⭐
 
 ## Suggestions?
 * Fork this repository, create a new branch, commit your changes and send a Pull Request!
-* We need solutions for MA I, MA II! Please, [contribute here](./Contribute.md).
+* We need solutions for **MA I**, **MA II**! Please, contribute [here](./Contribute.md).
 * You may help by collecting course materials you'd like to share (preferably math-related). Just don't forget to ask course instructors' permission to share them.
