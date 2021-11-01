@@ -1,5 +1,8 @@
 # Random
 
+## Info
+* [Трудоустройство](https://docs.google.com/document/d/1USqlSw_4Qnjcc_ockH7ohLFwm585BA22Qe70p5kCN_8/edit?usp=drivesdk)
+
 ## Books
 * [Кристалл роста](https://crystalbook.ru/)
 
