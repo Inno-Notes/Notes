@@ -121,7 +121,7 @@
 ## Other resources
 * Student Union news channel
     * [@suiu_news](https://t.me/suiu_news)
-* [Mathcha](https://www.mathcha.io/)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text"> - free online WYSIWYG *LaTeX* editor
+* [Mathcha](https://www.mathcha.io/)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title=Mathcha"> - free online WYSIWYG *LaTeX* editor
     * [Try here](https://www.mathcha.io/editor/7m8gEU4Pi24Imot6Yv7kPTzVLwBI4o5ZV9hwBX9jD)
 * [Random](./Random.md)
 
