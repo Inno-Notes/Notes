@@ -90,6 +90,8 @@
         * [Materials](https://drive.google.com/drive/folders/14Zy1w1O0XSmjfU8XOV32m2-uMRUJQVTG?usp=sharing)
     * SSAD
         * [Repo](https://github.com/yegor256/ssd16)
+    * Philosophy ([implausibleDenyability](https://github.com/implausibleDenyability))
+        * [Notes](https://orchid-creature-596.notion.site/Philosophy-cbd3fcb9b2984d3b93a6af48aef7f797)
 
 ## BS20
 * F20
