@@ -3,6 +3,7 @@
 ## Bots
 * [InnoSchedule](https://gitlab.com/Louie_ru/InnoSchedule)
 * [InnoPrintBot](https://github.com/blinikar/innoprintbot)
+* [Inno Course Image Generator](https://t.me/IU_cigen_bot)
 
 ## Info
 * [Трудоустройство](https://docs.google.com/document/d/1USqlSw_4Qnjcc_ockH7ohLFwm585BA22Qe70p5kCN_8/edit?usp=drivesdk)
