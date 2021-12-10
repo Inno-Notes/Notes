@@ -53,26 +53,26 @@
     * Text and pictures ([Delviet](https://github.com/Delviet), [seytkalievm](https://github.com/seytkalievm))
         * [@b19lectut](http://t.me/b19lectut)
 * S20
-    * [How it began...](https://docs.google.com/spreadsheets/d/1nXFWp9TzYVonFIEJUcCxljtvYfa2U5urXCwc6GUrNb8/edit?usp=sharing)
+    * [How it began...](https://docs.google.com/spreadsheets/d/114FePEEj6Nrr9K4X5I8PyBfSbxn8VSk_O3lbiuxyC7M/edit?usp=sharing)
     * MA II
-        * [Materials](https://drive.google.com/drive/folders/1KUTBfqlyPGU3aRYAtAkZJ_eJdGMTfmEc?usp=sharing)
+        * [Materials](https://drive.google.com/drive/folders/1lnqasIlQeh6MqU_ZFAeM-iMY_Ays3lZn?usp=sharing)
         * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEag1Wc9ohTtmZkovLuZMAEG)
     * AGLA
-        * [Materials](https://drive.google.com/drive/folders/1Aett2JkUYeKpXc6Px4O-urqzzvKbzp_b?usp=sharing)
+        * [Materials](https://drive.google.com/drive/folders/1p4472WLNddEza9TlJh7N285x6ogDQFEo?usp=sharing)
 * F20
     * PS ([br4ch1st0chr0n3](https://github.com/br4ch1st0chr0n3))
-        * [Materials](https://drive.google.com/drive/u/0/folders/1llFZPdrxiuD_9aPAFbZ_mcIJjUHB2-NE)
+        * [Materials](https://drive.google.com/drive/folders/1AsRhU_FxUbyklH1D9wR5NLjcBPnf_Ld4?usp=sharing)
         * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEbWP1ov_FFfnPWZujSzF7jV)
     * Physics I - Mechanics ([vBazilevich](https://github.com/vBazilevich))
-        * [Materials](https://drive.google.com/drive/folders/1qx8be_2yLGtZDlYD48Y3s4DdUIz3klgy?usp=sharing)
+        * [Materials](https://drive.google.com/drive/folders/1944F88l5Q4IASBIfb9EjeJSst68QBkkY?usp=sharing)
         * [Playlist](https://www.youtube.com/playlist?list=PLNh4MTycRwFC3nc0sv_0--T7OuLHxMkMK)
     * DE ([ParfenovIgor](https://github.com/ParfenovIgor))
-        * [Labs](https://drive.google.com/drive/folders/1q58m0OOjqCSV5QjTzmKTBDyzLo6IvJC9?usp=sharing)
+        * [Materials](https://drive.google.com/drive/folders/1eRpXYHxxzr3VnzggUzAnNlFxEZzPhU8-?usp=sharing)
 * S21
-    * AI 
+    * AI
         * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4Paovn_wKttoAg3IrHTZSPMjy)
     * Physics II - EE
-        * [Materials](https://drive.google.com/folderview?id=1B9F1IU4YXGLxaEU__3X-JYwWvgYTh5O4)
+        * [Materials](https://drive.google.com/drive/folders/1MW2yzolVjqBX5qgSgpH0jviJmMehRsMx?usp=sharing)
     * DB
         * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4ParNWZqsxD-j6MzP9nf7pV7t)
     * CT
@@ -83,10 +83,13 @@
             * [Materials](https://drive.google.com/drive/folders/1XCHrFHR_gR_kGcduNOUu9F1I9IaI1bME?usp=sharing)
             * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl_DAnHFNvqVZMaEPHdYuhH6)
             * [Lab Solutions](https://www.mathcha.io/editor/D0kgysy7UqlHl4FW5YKO1IxK6nOdsENj9NPtoM1x2e)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text">
+        * Mechatronics
+            * [Materials](https://drive.google.com/drive/folders/1kCXXRrFo42oLzol7IgS1lzIbvblL9N-x?usp=sharing)
+            * [Playlist](https://youtube.com/playlist?list=PLNh4MTycRwFB3b_Bd6XZIUu8RXOm3GXBW)
     * DNP
         * [Materials](https://drive.google.com/drive/folders/1MC7JwfANKv_MJOP4-ZsKpwBhsv9ZQ37c?usp=sharing)
-    * ML 
-        * [Materials](https://drive.google.com/drive/folders/19MUatOCVYBHUk3cKED9GLE1r-Dj5lP8A?usp=sharing)
+    * IML
+        * [Materials](https://drive.google.com/drive/folders/1wir7yI7abihIHmvpRWP48X97IBSh-lq5?usp=sharing)
     * SSAD
         * [repo](https://github.com/yegor256/ssd16)
 
