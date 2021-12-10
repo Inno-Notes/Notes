@@ -26,14 +26,14 @@
             * [repo](https://github.com/SergeiSa/Contact-Aware-Control-Slides-Fall-2020)
 
 ## BS18
-* ### F19-S20+
+* F19-S20+
     * [Meta-repo](https://github.com/hany606/University-Courses-Repositories)
 * F20
     * RO-01
         * TM ([Lupasic](https://github.com/Lupasic))
             * [Lab videos](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K)
             * [Assignments repo](https://github.com/hany606/TM_Fall20IU)
-        * FR
+        * FoR
             * [Assignments repo](https://github.com/hany606/Introduction-to-Manipulators-FoR_Fall20IU)
     * IML
         * [Assignments repo](https://github.com/hany606/Introduction-to-Machine-Learning-IML_Fall20IU)
@@ -87,11 +87,11 @@
             * [Materials](https://drive.google.com/drive/folders/1kCXXRrFo42oLzol7IgS1lzIbvblL9N-x?usp=sharing)
             * [Playlist](https://youtube.com/playlist?list=PLNh4MTycRwFB3b_Bd6XZIUu8RXOm3GXBW)
     * DNP
-        * [Materials](https://drive.google.com/drive/folders/1MC7JwfANKv_MJOP4-ZsKpwBhsv9ZQ37c?usp=sharing)
+        * [Materials](https://drive.google.com/drive/folders/14Zy1w1O0XSmjfU8XOV32m2-uMRUJQVTG?usp=sharing)
     * IML
-        * [Materials](https://drive.google.com/drive/folders/1wir7yI7abihIHmvpRWP48X97IBSh-lq5?usp=sharing)
+        * [Repo](https://github.com/br4ch1st0chr0n3/F21-ML)
     * SSAD
-        * [repo](https://github.com/yegor256/ssd16)
+        * [Repo](https://github.com/yegor256/ssd16)
 
 ## BS20
 * F20
