@@ -16,7 +16,7 @@
         * [repo](https://github.com/yandexdataschool/MLatImperial2020)
         * [lectures](https://github.com/yandexdataschool/MLatImperial2020/tree/master/Lectures)
 * S18
-    * CA 
+    * CA
         * [wiki](https://github.com/InnopolisStudents/wiki/tree/master/computer_architecture)
 
 ## BS17
@@ -96,16 +96,16 @@
 ## BS20
 * F20
     * MA I ([Maruf-co](https://github.com/Maruf-co))
-        * [Materials](https://drive.google.com/drive/folders/1P1CK8iWA8oy_rgL2gyPqHm9E3qo8hxqZ?usp=sharing)
+        * [Materials](https://drive.google.com/drive/folders/1mcCxkTXMLXvJQyKQhDyTsV3u95lbFLCf?usp=sharing)
         * Professor's [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv)
     * Calculus I ([RamilDautov](https://github.com/RamilDautov))
-        * [Materials](https://drive.google.com/drive/folders/1YSUDfduUBSkzT7ksgT8CQkSCCRoka53C?usp=sharing)
+        * [Materials](https://drive.google.com/drive/folders/1dY7DyV1RA9Fsk4RrFUzYEbxIgd1tpwbx?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEbzrpqphMWQ06p70RtXRDwR)
     * EAGLA
         * [Lab playlist](https://youtube.com/playlist?list=PLtFS7FHavVl-VXiod2y_fZTAVClyEXB-0)
 * S21
     * MA II
-        * [Materials](https://drive.google.com/drive/folders/17vd4xuf2lCfK0jJ7RBV2dmlQvYbpXDVi?usp=sharing)
+        * [Materials](https://drive.google.com/drive/folders/1Tym4rFAEshjQhvDPenvpvyFgvOmV0Qo1?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4Pap_gvxY2TTxZmyZ6VluPGgQ)
 
 ## MS20
