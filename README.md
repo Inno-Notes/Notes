@@ -88,8 +88,6 @@
             * [Playlist](https://youtube.com/playlist?list=PLNh4MTycRwFB3b_Bd6XZIUu8RXOm3GXBW)
     * DNP
         * [Materials](https://drive.google.com/drive/folders/14Zy1w1O0XSmjfU8XOV32m2-uMRUJQVTG?usp=sharing)
-    * IML
-        * [Repo](https://github.com/br4ch1st0chr0n3/F21-ML)
     * SSAD
         * [Repo](https://github.com/yegor256/ssd16)
 
