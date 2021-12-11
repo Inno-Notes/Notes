@@ -87,12 +87,12 @@
 ### F20
 * MA I ([Maruf-co](https://github.com/Maruf-co))
     * [Materials](https://drive.google.com/drive/folders/1mcCxkTXMLXvJQyKQhDyTsV3u95lbFLCf?usp=sharing)
-    * Professor's [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv)
+    * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv)
 * Calculus I ([RamilDautov](https://github.com/RamilDautov))
     * [Materials](https://drive.google.com/drive/folders/1dY7DyV1RA9Fsk4RrFUzYEbxIgd1tpwbx?usp=sharing)
     * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEbzrpqphMWQ06p70RtXRDwR)
 * EAGLA
-    * [Lab playlist](https://youtube.com/playlist?list=PLtFS7FHavVl-VXiod2y_fZTAVClyEXB-0)
+    * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl-VXiod2y_fZTAVClyEXB-0)
 ### S21
 * MA II
     * [Materials](https://drive.google.com/drive/folders/1Tym4rFAEshjQhvDPenvpvyFgvOmV0Qo1?usp=sharing)
