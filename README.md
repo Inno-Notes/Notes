@@ -61,7 +61,7 @@
 * S21
     * AI
         * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4Paovn_wKttoAg3IrHTZSPMjy)
-    * Physics II - EE
+    * Physics II - Electrical Engineering
         * [Materials](https://drive.google.com/drive/folders/1MW2yzolVjqBX5qgSgpH0jviJmMehRsMx?usp=sharing)
     * DB
         * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4ParNWZqsxD-j6MzP9nf7pV7t)
@@ -104,7 +104,7 @@
 ## MS20
 * S21
     * RO-01
-        * Computational Intelligence
+        * CI
             * [Playlist](https://youtu.be/YB-Pm6dPR7s)
 
 ## BS21
@@ -113,6 +113,26 @@
         * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8l4q7Z_ja2ajzr4pRGGvYZ)
     * MA I
         * [Contribute solutions](./Contribute.md)
+
+## Abbreviations:
+* ML - Machine Learning
+* CA - Computer Architecture
+* TM - Theoretical Mechanics
+* FoR - Fundamentals of Robotics
+* IML - Introduction to ML
+* PMLDL - Practical Machine Learning and Deep Learning
+* PAI - Practical AI
+* ICV - Introduction to Computer Vision
+* MA - Mathematical Analysis
+* AGLA - Analytical Geometry & Linear Algebra
+* PS - Probability & Statistics
+* DE - Differential Equations
+* DB - Databases
+* CT - Control Theory
+* DNP - Distributed Network Programming
+* SSAD - Software Systems Analysis and Developnent
+* EAGLA - Essential AGLA
+* CI - Computational Intelligence
 
 ## Other resources
 * Student Union news channel
