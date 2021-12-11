@@ -121,7 +121,7 @@
 * **CT** - Control Theory
 * **DB** - Databases
 * **DE** - Differential Equations
-* **DNP** - Distributed Network Programming
+* **DNP** - Distributed and Network Programming
 * **EAGLA** - Essential AGLA
 * **FoR** - Fundamentals of Robotics
 * **ICV** - Introduction to Computer Vision
