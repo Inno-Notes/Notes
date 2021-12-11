@@ -114,7 +114,7 @@
     * MA I
         * [Contribute solutions](./Contribute.md)
 
-## Abbreviations:
+## Abbreviations
 * **AGLA** - Analytical Geometry & Linear Algebra
 * **CA** - Computer Architecture
 * **CI** - Computational Intelligence
