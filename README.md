@@ -115,24 +115,24 @@
         * [Contribute solutions](./Contribute.md)
 
 ## Abbreviations:
-* AGLA - Analytical Geometry & Linear Algebra
-* CA - Computer Architecture
-* CI - Computational Intelligence
-* CT - Control Theory
-* DB - Databases
-* DE - Differential Equations
-* DNP - Distributed Network Programming
-* EAGLA - Essential AGLA
-* FoR - Fundamentals of Robotics
-* ICV - Introduction to Computer Vision
-* IML - Introduction to ML
-* MA - Mathematical Analysis
-* ML - Machine Learning
-* PAI - Practical AI
-* PMLDL - Practical Machine Learning and Deep Learning
-* PS - Probability & Statistics
-* SSAD - Software Systems Analysis and Developnent
-* TM - Theoretical Mechanics
+* **AGLA** - Analytical Geometry & Linear Algebra
+* **CA** - Computer Architecture
+* **CI** - Computational Intelligence
+* **CT** - Control Theory
+* **DB** - Databases
+* **DE** - Differential Equations
+* **DNP** - Distributed Network Programming
+* **EAGLA** - Essential AGLA
+* **FoR** - Fundamentals of Robotics
+* **ICV** - Introduction to Computer Vision
+* **IML** - Introduction to ML
+* **MA** - Mathematical Analysis
+* **ML** - Machine Learning
+* **PAI** - Practical AI
+* **PMLDL** - Practical Machine Learning and Deep Learning
+* **PS** - Probability & Statistics
+* **SSAD** - Software Systems Analysis and Developnent
+* **TM** - Theoretical Mechanics
 
 ## Other resources
 * Student Union news channel
