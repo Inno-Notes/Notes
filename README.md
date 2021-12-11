@@ -25,7 +25,6 @@
         * [Assignments repo](https://github.com/hany606/Introduction-to-Manipulators-FoR_Fall20IU)
     * IML
         * [Assignments repo](https://github.com/hany606/Introduction-to-Machine-Learning-IML_Fall20IU)
-
 * F21
     * Numerical modeling ([hany606](https://github.com/hany606))
         * [Assignments repo](https://github.com/hany606/NM_Fall21IU)
@@ -40,6 +39,8 @@
 * F19
     * Text and pictures ([Delviet](https://github.com/Delviet), [seytkalievm](https://github.com/seytkalievm))
         * [@b19lectut](http://t.me/b19lectut)
+    * PL 
+        * [Materials](https://drive.google.com/file/d/1kgjlO8g0lMs3gd7TtxFHjJnaIbKvTzoL/view?usp=sharing)
 * S20
     * [How it began...](https://docs.google.com/spreadsheets/d/114FePEEj6Nrr9K4X5I8PyBfSbxn8VSk_O3lbiuxyC7M/edit?usp=sharing)
     * MA II
@@ -125,6 +126,7 @@
 * **MA** - Mathematical Analysis
 * **ML** - Machine Learning
 * **PAI** - Practical AI
+* **PL** - Philosophy (Logic)
 * **PMLDL** - Practical Machine Learning and Deep Learning
 * **PS** - Probability & Statistics
 * **RO** - Robotics-specific
