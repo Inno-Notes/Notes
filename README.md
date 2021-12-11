@@ -1,15 +1,5 @@
 # Notes
 
-## Courses
-
-* [BS?](#bs)
-* [BS17](#bs17)
-* [BS18](#bs18)
-* [BS19](#bs19)
-* [BS20](#bs20)
-* [MS20](#ms20)
-* [BS21](#bs21)
-
 ## BS?
 * S?
     * ML
