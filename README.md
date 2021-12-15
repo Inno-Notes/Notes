@@ -71,7 +71,7 @@
         * [Materials](https://drive.google.com/drive/folders/14Zy1w1O0XSmjfU8XOV32m2-uMRUJQVTG?usp=sharing)
     * FoR (RO)
         * [Materials](https://drive.google.com/drive/folders/1FzpSw2RMjVCmIhuwK5XkdPW2NhDFlMF7?usp=sharing)
-        * [Notes](https://www.mathcha.io/editor/z8lqpCmwUE7fyghxOzEKeu1pxgkqCMng83KfLJe1D7)
+        * [Notes](https://www.mathcha.io/editor/z8lqpCmwUE7fyghxOzEKeu1pxgkqCMng83KfLJe1D7)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text">
     * Mechatronics (RO)
         * [Materials](https://drive.google.com/drive/folders/1kCXXRrFo42oLzol7IgS1lzIbvblL9N-x?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PLNh4MTycRwFB3b_Bd6XZIUu8RXOm3GXBW)
