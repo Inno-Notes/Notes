@@ -30,7 +30,7 @@
         * [Assignments repo](https://github.com/hany606/NM_Fall21IU)
     * PMLDL
         * [Assignments repo](https://github.com/hany606/PMLDL_Fall21IU)
-    * PAI
+    * PA I
         * [Assignments repo](https://github.com/hany606/PAI_Fall21IU)
     * ICV 
     [Assignments repo](https://github.com/hany606/ICV_Fall21IU)
@@ -39,7 +39,7 @@
 * F19
     * Text and pictures ([Delviet](https://github.com/Delviet), [seytkalievm](https://github.com/seytkalievm))
         * [@b19lectut](http://t.me/b19lectut)
-    * PL 
+    * PL
         * [Materials](https://drive.google.com/file/d/1kgjlO8g0lMs3gd7TtxFHjJnaIbKvTzoL/view?usp=sharing)
 * S20
     * [How it began...](https://docs.google.com/spreadsheets/d/114FePEEj6Nrr9K4X5I8PyBfSbxn8VSk_O3lbiuxyC7M/edit?usp=sharing)
@@ -74,6 +74,8 @@
     * Mechatronics (RO)
         * [Materials](https://drive.google.com/drive/folders/1kCXXRrFo42oLzol7IgS1lzIbvblL9N-x?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PLNh4MTycRwFB3b_Bd6XZIUu8RXOm3GXBW)
+    * FoR (RO)
+        * [Notes](https://www.mathcha.io/editor/z8lqpCmwUE7fyghxOzEKeu1pxgkqCMng83KfLJe1D7)
     * DNP
         * [Materials](https://drive.google.com/drive/folders/14Zy1w1O0XSmjfU8XOV32m2-uMRUJQVTG?usp=sharing)
     * SSAD
