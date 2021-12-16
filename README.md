@@ -22,7 +22,7 @@
 ## BS18
 * F19-S20+
 
-    * <details> <summary>  <a href=https://github.com/hany606/University-Courses-Repositories> Meta-repo </a> </summary>
+    * [Meta-repo](https://github.com/hany606/University-Courses-Repositories)
 
 * F20
 
@@ -74,7 +74,7 @@
         * [@b19lectut](http://t.me/b19lectut)
 * S20
 
-    * <details> <summary>  <a href=https://docs.google.com/spreadsheets/d/114FePEEj6Nrr9K4X5I8PyBfSbxn8VSk_O3lbiuxyC7M/edit?usp=sharing> How it began... </a> </summary>
+    * [How it began...](https://docs.google.com/spreadsheets/d/114FePEEj6Nrr9K4X5I8PyBfSbxn8VSk_O3lbiuxyC7M/edit?usp=sharing)
 
     </details>
 
