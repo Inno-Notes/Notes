@@ -75,6 +75,9 @@
     * Mechatronics (RO)
         * [Materials](https://drive.google.com/drive/folders/1kCXXRrFo42oLzol7IgS1lzIbvblL9N-x?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PLNh4MTycRwFB3b_Bd6XZIUu8RXOm3GXBW)
+    * ML
+        * [Materials](https://drive.google.com/drive/folders/1E6JHoA1fTWveVDAx27Q4qoedlZHA_Ump?usp=sharing)
+        * Professor Khan highly recommended lab attendance
     * Philosophy ([implausibleDenyability](https://github.com/implausibleDenyability))
         * [Notes](https://orchid-creature-596.notion.site/Philosophy-cbd3fcb9b2984d3b93a6af48aef7f797)
     * SSAD
