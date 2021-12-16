@@ -11,18 +11,18 @@
 
 ## BS17
 * F20
-    * Contact-Aware Control (RO)
+    * Contact-Aware Control (RO-T)
         * [Materials](https://github.com/SergeiSa/Contact-Aware-Control-Slides-Fall-2020)
 
 ## BS18
 * F19-S20+
     * [Meta-repo](https://github.com/hany606/University-Courses-Repositories)
 * F20
-    * FoR (RO)
+    * FoR (RO-T)
         * [Materials](https://github.com/hany606/Introduction-to-Manipulators-FoR_Fall20IU)
     * IML
         * [Materials](https://github.com/hany606/Introduction-to-Machine-Learning-IML_Fall20IU)
-    * TM (RO) ([Lupasic](https://github.com/Lupasic))
+    * TM (RO-T) ([Lupasic](https://github.com/Lupasic))
         * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K) Labs
         * [Materials](https://github.com/hany606/TM_Fall20IU)
 * F21
@@ -69,10 +69,10 @@
 * F21
     * DNP
         * [Materials](https://drive.google.com/drive/folders/14Zy1w1O0XSmjfU8XOV32m2-uMRUJQVTG?usp=sharing)
-    * FoR (RO)
+    * FoR (RO-T)
         * [Materials](https://drive.google.com/drive/folders/1FzpSw2RMjVCmIhuwK5XkdPW2NhDFlMF7?usp=sharing)
         * [Notes](https://www.mathcha.io/editor/z8lqpCmwUE7fyghxOzEKeu1pxgkqCMng83KfLJe1D7)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text">
-    * Mechatronics (RO)
+    * Mechatronics (RO-T)
         * [Materials](https://drive.google.com/drive/folders/1kCXXRrFo42oLzol7IgS1lzIbvblL9N-x?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PLNh4MTycRwFB3b_Bd6XZIUu8RXOm3GXBW)
     * ML
@@ -82,11 +82,11 @@
         * [Playlist](https://youtube.com/playlist?list=PLDtVwbUDS3WnlwDgpHnPVUvwDrjHNkRVh) Lectures
     * Philosophy ([implausibleDenyability](https://github.com/implausibleDenyability))
         * [Notes](https://orchid-creature-596.notion.site/Philosophy-cbd3fcb9b2984d3b93a6af48aef7f797)
-    * PP (AI, SD, CS)
+    * PP (AI-T, SD-T, CS-T)
         * [Materials](https://github.com/ParfenovIgor/-F21-Programming-Paradigms-Y-3)
     * SSAD
         * [Materials](https://github.com/yegor256/ssd16)
-    * TM (RO)
+    * TM (RO-T)
         * [Materials](https://drive.google.com/drive/folders/1XCHrFHR_gR_kGcduNOUu9F1I9IaI1bME?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl_DAnHFNvqVZMaEPHdYuhH6)
         * [Notes](https://www.mathcha.io/editor/D0kgysy7UqlHl4FW5YKO1IxK6nOdsENj9NPtoM1x2e)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text">
@@ -123,8 +123,10 @@
 
 ## Abbreviations
 * **AGLA** - Analytical Geometry & Linear Algebra
+* **AI** - Artificial Intelligence
 * **CA** - Computer Architecture
 * **CI** - Computational Intelligence
+* **CS** - Cybersecurity
 * **CT** - Control Theory
 * **DB** - Databases
 * **DE** - Differential Equations
@@ -140,9 +142,10 @@
 * **PMLDL** - Practical Machine Learning and Deep Learning
 * **PP** - Programming Paradigms
 * **PS** - Probability & Statistics
-* **RO** - Robotics-specific
-* **SSAD** - Software Systems Analysis and Developnent
+* **SD** - Software Development
+* **SSAD** - Software Systems Analysis and Development
 * **TM** - Theoretical Mechanics
+* **TrackName-T** - specific to TrackName track
 
 ## Other resources
 * Student Union news channel
