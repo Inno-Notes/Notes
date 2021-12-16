@@ -131,10 +131,10 @@
         * [Materials](https://drive.google.com/drive/folders/14Zy1w1O0XSmjfU8XOV32m2-uMRUJQVTG?usp=sharing)
     </details>
 
-    * <details> <summary> FoR (RO-T) </summary>
+    * <details> <summary> FoR (RO-T) ( <a href=https://github.com/mirnanoukari> mirnanoukari </a>) </summary>
 
-        * [Materials](https://drive.google.com/drive/folders/1FzpSw2RMjVCmIhuwK5XkdPW2NhDFlMF7?usp=sharing)
-        * [Notes](https://www.mathcha.io/editor/z8lqpCmwUE7fyghxOzEKeu1pxgkqCMng83KfLJe1D7)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text">
+        * [Materials](https://github.com/br4ch1st0chr0n3/F21FoR)
+        * [Assignments](https://github.com/mirnanoukari/FoR). Check Lab slides to install and run ROS lab
     </details>
 
     * <details> <summary> Mechatronics (RO-T) </summary>
