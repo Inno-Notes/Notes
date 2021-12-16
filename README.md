@@ -78,6 +78,8 @@
     * ML
         * [Materials](https://drive.google.com/drive/folders/1E6JHoA1fTWveVDAx27Q4qoedlZHA_Ump?usp=sharing)
         * Professor Khan highly recommended lab attendance
+        * [Playlist. Best practices in Training Neural Networks](https://youtube.com/playlist?list=PLJHon32ieRbI8rwg3K9mdUfiBfSaeFreb)
+        * [Playlist. Lectures](https://youtube.com/playlist?list=PLDtVwbUDS3WnlwDgpHnPVUvwDrjHNkRVh)
     * Philosophy ([implausibleDenyability](https://github.com/implausibleDenyability))
         * [Notes](https://orchid-creature-596.notion.site/Philosophy-cbd3fcb9b2984d3b93a6af48aef7f797)
     * SSAD
