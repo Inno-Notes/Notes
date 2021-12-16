@@ -12,28 +12,28 @@
 ## BS17
 * F20
     * Contact-Aware Control (RO)
-        * [repo](https://github.com/SergeiSa/Contact-Aware-Control-Slides-Fall-2020)
+        * [Materials](https://github.com/SergeiSa/Contact-Aware-Control-Slides-Fall-2020)
 
 ## BS18
 * F19-S20+
     * [Meta-repo](https://github.com/hany606/University-Courses-Repositories)
 * F20
     * FoR (RO)
-        * [Assignments repo](https://github.com/hany606/Introduction-to-Manipulators-FoR_Fall20IU)
+        * [Materials](https://github.com/hany606/Introduction-to-Manipulators-FoR_Fall20IU)
     * IML
-        * [Assignments repo](https://github.com/hany606/Introduction-to-Machine-Learning-IML_Fall20IU)
+        * [Materials](https://github.com/hany606/Introduction-to-Machine-Learning-IML_Fall20IU)
     * TM (RO) ([Lupasic](https://github.com/Lupasic))
-        * [Lab videos](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K)
-        * [Assignments repo](https://github.com/hany606/TM_Fall20IU)
+        * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K) Labs
+        * [Materials](https://github.com/hany606/TM_Fall20IU)
 * F21
     * ICV
-        * [Assignments repo](https://github.com/hany606/ICV_Fall21IU)
+        * [Materials](https://github.com/hany606/ICV_Fall21IU)
     * Numerical modeling ([hany606](https://github.com/hany606))
-        * [Assignments repo](https://github.com/hany606/NM_Fall21IU)
+        * [Materials](https://github.com/hany606/NM_Fall21IU)
     * PA I
-        * [Assignments repo](https://github.com/hany606/PAI_Fall21IU)
+        * [Materials](https://github.com/hany606/PAI_Fall21IU)
     * PMLDL
-        * [Assignments repo](https://github.com/hany606/PMLDL_Fall21IU)
+        * [Materials](https://github.com/hany606/PMLDL_Fall21IU)
 
 ## BS19
 * F19
@@ -83,11 +83,11 @@
     * Philosophy ([implausibleDenyability](https://github.com/implausibleDenyability))
         * [Notes](https://orchid-creature-596.notion.site/Philosophy-cbd3fcb9b2984d3b93a6af48aef7f797)
     * SSAD
-        * [Repo](https://github.com/yegor256/ssd16)
+        * [Materials](https://github.com/yegor256/ssd16)
     * TM (RO)
         * [Materials](https://drive.google.com/drive/folders/1XCHrFHR_gR_kGcduNOUu9F1I9IaI1bME?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl_DAnHFNvqVZMaEPHdYuhH6)
-        * [Lab Solutions](https://www.mathcha.io/editor/D0kgysy7UqlHl4FW5YKO1IxK6nOdsENj9NPtoM1x2e)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text">
+        * [Notes](https://www.mathcha.io/editor/D0kgysy7UqlHl4FW5YKO1IxK6nOdsENj9NPtoM1x2e)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text">
 
 ## BS20
 * F20
