@@ -3,8 +3,7 @@
 ## BS?
 * S?
     * ML
-        * [repo](https://github.com/yandexdataschool/MLatImperial2020)
-        * [lectures](https://github.com/yandexdataschool/MLatImperial2020/tree/master/Lectures)
+        * [Materials](https://github.com/yandexdataschool/MLatImperial2018)
 * S18
     * CA
         * [wiki](https://github.com/InnopolisStudents/wiki/tree/master/computer_architecture)
