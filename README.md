@@ -222,6 +222,8 @@
         * [Contribute solutions](./Contribute.md)
 
 ## Abbreviations
+<details> <summary> All here </summary>
+
 * **AGLA** - Analytical Geometry & Linear Algebra
 * **AI** - Artificial Intelligence
 * **CA** - Computer Architecture
@@ -246,15 +248,12 @@
 * **SSAD** - Software Systems Analysis and Development
 * **TM** - Theoretical Mechanics
 * **TrackName-T** - specific to TrackName track
+</details>
 
 ## Other resources
-* Student Union news channel
-
-    * <details> <summary>  <a href=https://t.me/suiu_news> @suiu_news </a> </summary>
+* [@suiu_news](https://t.me/suiu_news) - Student Union news channel
 
 * [Mathcha](https://www.mathcha.io/)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha"> - free online [WYSIWYG](https://youtu.be/OurIS30Fi_A) *LaTeX* editor
-
-    * <details> <summary>  <a href=https://www.mathcha.io/editor/7m8gEU4Pi24Imot6Yv7kPTzVLwBI4o5ZV9hwBX9jD> Try here </a> </summary>
 
 * [Random](./Random.md)
 
