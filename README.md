@@ -82,7 +82,7 @@
     * Philosophy ([implausibleDenyability](https://github.com/implausibleDenyability))
         * [Notes](https://orchid-creature-596.notion.site/Philosophy-cbd3fcb9b2984d3b93a6af48aef7f797)
     * PP (AI-T, SD-T, CS-T)
-        * [Materials](https://github.com/ParfenovIgor/-F21-Programming-Paradigms-Y-3)
+        * [Materials](https://github.com/ParfenovIgor/F21-Programming-Paradigms-Y-3)
     * SSAD
         * [Materials](https://github.com/yegor256/ssd16)
     * TM (RO-T)
