@@ -82,6 +82,8 @@
         * [Playlist](https://youtube.com/playlist?list=PLDtVwbUDS3WnlwDgpHnPVUvwDrjHNkRVh) Lectures
     * Philosophy ([implausibleDenyability](https://github.com/implausibleDenyability))
         * [Notes](https://orchid-creature-596.notion.site/Philosophy-cbd3fcb9b2984d3b93a6af48aef7f797)
+    * PP (AI, SD, CS)
+        * [Materials](https://github.com/ParfenovIgor/-F21-Programming-Paradigms-Y-3)
     * SSAD
         * [Materials](https://github.com/yegor256/ssd16)
     * TM (RO)
@@ -136,6 +138,7 @@
 * **PAI** - Practical AI
 * **PL** - Philosophy (Logic)
 * **PMLDL** - Practical Machine Learning and Deep Learning
+* **PP** - Programming Paradigms
 * **PS** - Probability & Statistics
 * **RO** - Robotics-specific
 * **SSAD** - Software Systems Analysis and Developnent
