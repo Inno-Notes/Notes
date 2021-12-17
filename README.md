@@ -66,7 +66,7 @@
 
     * <details> <summary> PL </summary>
 
-        * [Materials](https://drive.google.com/file/d/1kgjlO8g0lMs3gd7TtxFHjJnaIbKvTzoL/view?usp=sharing)
+        * [Materials](https://drive.google.com/drive/folders/15obxaQVzCoCPdgL8a0Ox0Mvq_9oslLf6?usp=sharing)
     </details>
 
     * <details> <summary> Text and pictures ( <a href=https://github.com/Delviet> Delviet</a>, <a href=https://github.com/seytkalievm>seytkalievm</a> ) </summary>
