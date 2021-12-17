@@ -219,8 +219,17 @@
 
     * <details> <summary> MA I </summary>
 
-        * [Contribute solutions](./Contribute.md)
+        * [Solutions](https://www.mathcha.io/editor/kZ74DHn3TV4FNZIB5PDgqUvwDekuKwzLwQHNrVZr5)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha">
+    </details>
 
+* S22
+
+    * <details> <summary> MA II </summary>
+
+        * Probable Assignments - see materials of previous BS
+        * [Solutions](https://www.mathcha.io/editor/z8JN2SMVfGXS9MH7K9y8Js3GE9NeI4W3O6KhNXLLxP)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha">
+    </details>
+    
 ## Abbreviations
 <details> <summary> All here </summary>
 
@@ -259,5 +268,4 @@
 
 ## Suggestions?
 * Fork this repository, create a new branch, commit your changes and send a Pull Request!
-* We need solutions for **MA I**, **MA II**! Please, contribute [here](./Contribute.md).
 * You may help by collecting course materials you'd like to share (preferably math-related). Just don't forget to ask course instructors' permission to share them.
