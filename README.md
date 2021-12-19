@@ -73,7 +73,7 @@
         * [Materials](https://drive.google.com/drive/folders/1EO_7EBNVICSLRz3lw-PCUOMMla7f7nQA?usp=sharing)
     </details>
 
-    * <details> <summary> MA I ( <a href=https://github.com/SMore-Napi)>  </a>) </summary>
+    * <details> <summary> MA I ( <a href=https://github.com/SMore-Napi> SMore-Napi </a>) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1FE7ZpD2TBKQRm3GY8fu8rMLBq1TqIIs7?usp=sharing)
     </details>
