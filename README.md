@@ -175,6 +175,7 @@
     * <details> <summary> PP (AI-T, SD-T, CS-T) </summary>
 
         * [Materials](https://github.com/ParfenovIgor/F21-Programming-Paradigms-Y-3)
+        * [Labs and Assignments](https://github.com/SMore-Napi/PP_Innopolis)
     </details>
 
     * <details> <summary> SSAD </summary>
