@@ -73,7 +73,7 @@
         * [Materials](https://drive.google.com/drive/folders/1EO_7EBNVICSLRz3lw-PCUOMMla7f7nQA?usp=sharing)
     </details>
 
-    * <details> <summary> MA I </summary>
+    * <details> <summary> MA I ( <a href=https://github.com/ParfenovIgor)>  </a>) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1FE7ZpD2TBKQRm3GY8fu8rMLBq1TqIIs7?usp=sharing)
     </details>
@@ -92,7 +92,7 @@
 
     </details>
 
-    * <details> <summary> AGLA </summary>
+    * <details> <summary> AGLA II </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1p4472WLNddEza9TlJh7N285x6ogDQFEo?usp=sharing)
     </details>
@@ -124,14 +124,15 @@
 
         * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4Paovn_wKttoAg3IrHTZSPMjy)
     </details>
-
+    
     * <details> <summary> CT </summary>
-
+        * [Materials](https://drive.google.com/drive/folders/1fkxnvpBowT61iej6w15-3OeI_RPukGSE?usp=sharing)
         * [Repo](https://github.com/SergeiSa/Control-Theory-Slides-Spring-2021)
     </details>
 
     * <details> <summary> DB </summary>
 
+        * [Materials](https://drive.google.com/drive/folders/1uiA06foyWJMMO7bjBMg4ER1OOOQz0dwD?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4ParNWZqsxD-j6MzP9nf7pV7t)
     </details>
 
@@ -177,7 +178,8 @@
 
     * <details> <summary> SSAD </summary>
 
-        * [Materials](https://github.com/yegor256/ssd16)
+        * [Materials](https://drive.google.com/drive/folders/1kqhm1EKLcxxMUERUn7BhRtaV4yEWdp86?usp=sharing)
+        * [Repo](https://github.com/yegor256/ssd16)
     </details>
 
     * <details> <summary> TM (RO-T) </summary>
@@ -255,6 +257,7 @@
 * **CT** - Control Theory
 * **DB** - Databases
 * **DE** - Differential Equations
+* **DM** - Discrete Math
 * **DNP** - Distributed and Network Programming
 * **EAGLA** - Essential AGLA
 * **FoR** - Fundamentals of Robotics

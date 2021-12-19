@@ -7,7 +7,7 @@
 
 ## Info
 * [Трудоустройство](https://docs.google.com/document/d/1USqlSw_4Qnjcc_ockH7ohLFwm585BA22Qe70p5kCN_8/edit?usp=drivesdk)
-* [Охрана труда](https://drive.google.com/file/d/1vDSv-ewjRnTkWwhZrSvfdIY1wuYDeHPa/view?usp=sharing)
+* [Охрана труда](https://drive.google.com/drive/folders/1KOKCRF1DdlBayr1k4j5PODVrP_nr26b2?usp=sharing)
 
 ## Pet projects
 * [Graph editor](https://github.com/br4ch1st0chr0n3/elm-graph-editor) written in Elm
