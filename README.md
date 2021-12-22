@@ -1,65 +1,69 @@
 # Notes
 
 ## BS?
-* S?
+
+* <details> <summary> S? </summary>
 
     * <details> <summary> ML </summary>
 
         * [Materials](https://github.com/yandexdataschool/MLatImperial2018)
-* S18
+    </details>
+
+* <details> <summary> S18 </summary>
 
     * <details> <summary> CA </summary>
 
         * [wiki](https://github.com/InnopolisStudents/wiki/tree/master/computer_architecture)
+    </details>
 
 ## BS17
-* F20
+* <details> <summary> F20 </summary>
 
     * <details> <summary> Contact-Aware Control (RO-T) </summary>
 
         * [Materials](https://github.com/SergeiSa/Contact-Aware-Control-Slides-Fall-2020)
+    </details>
 
 ## BS18
-* F19-S20+
+* <details> <summary> F19-S20+ </summary>
 
     * [Meta-repo](https://github.com/hany606/University-Courses-Repositories)
+    </details>
 
-* F20
+* <details> <summary> F20 </summary>
 
     * <details> <summary> FoR (RO-T) </summary>
 
         * [Materials](https://github.com/hany606/Introduction-to-Manipulators-FoR_Fall20IU)
-    </details>
 
     * <details> <summary> IML </summary>
 
         * [Materials](https://github.com/hany606/Introduction-to-Machine-Learning-IML_Fall20IU)
-    </details>
 
     * <details> <summary> TM (RO-T) ( <a href=https://github.com/Lupasic)> Lupasic </a>) </summary>
 
         * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K) Labs
         * [Materials](https://github.com/hany606/TM_Fall20IU)
-* F21
+    </details>
+
+* <details> <summary> F21 </summary>
 
     * <details> <summary> ICV </summary>
 
         * [Materials](https://github.com/hany606/ICV_Fall21IU)
-    </details>
 
     * <details> <summary> Numerical modeling ( <a href=https://github.com/hany606)> hany606 </a>) </summary>
 
         * [Materials](https://github.com/hany606/NM_Fall21IU)
-    </details>
 
     * <details> <summary> PA I </summary>
 
         * [Materials](https://github.com/hany606/PAI_Fall21IU)
-    </details>
 
     * <details> <summary> PMLDL </summary>
 
         * [Materials](https://github.com/hany606/PMLDL_Fall21IU)
+    </details>
 
 ## BS19
 * F19
@@ -222,11 +226,12 @@
         * [Playlist](https://youtube.com/playlist?list=PLDtVwbUDS3Wlj5KY-HO0nM-BJixae64bX)
 
 ## MS20
-* S21
+* <details> <summary> S21 </summary>
 
     * <details> <summary> CI </summary>
 
         * [Playlist](https://youtu.be/YB-Pm6dPR7s)
+    </details>
 
 ## BS21
 * F21
@@ -336,4 +341,4 @@
     * become a member of `Inno-Notes` organization!
     * After you have completed your minimal duties, contact [maintainers](#want-to-help) and tell your github username.
     * We'll check your contribution history and decide.
-    * Don't forget to accept an invitation on GitHub and enable [organization visibility](https://github.com/orgs/Inno-Notes/people) after you become a contributor!
+    * Don't forget to accept an invitation on Gi and enable [organization visibility](https://github.com/orgs/Inno-Notes/people) after you become a contributor!
