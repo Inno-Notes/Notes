@@ -294,7 +294,7 @@
 
 * Before we share any materials, we ask course instructors for permission (unless the instructors have left the university or the course was taught quite a long time ago).
 
-* Hence, if you'd like to share your materials, ask your course instructors for a permission to do so. If they agree, send your files to [maintainers](#want-to-help?).
+* Hence, if you'd like to share your materials, ask your course instructors for a permission to do so. If they agree, send your files to [maintainers](#want-to-help).
     * If you'd like to share a folder, make a `.zip` (`.tar`, `.7z`, etc.) archive.
     * A single file can be shared as-is.
     * A repository can be shared as a link ([example](https://github.com/ParfenovIgor/F21-Programming-Paradigms-Y-3)).
@@ -320,6 +320,6 @@
     * etc.
 
 * Your reward - become a member of `Inno-Notes` organization!
-    * After you have completed your minimal duties, contact [maintainers](#want-to-help?) and tell your github username.
+    * After you have completed your minimal duties, contact [maintainers](#want-to-help) and tell your github username.
     * We'll check your contribution history and decide.
     * Don't forget to enable [organization visibility](https://github.com/orgs/Inno-Notes/people) after you become a contributor!
