@@ -286,6 +286,40 @@
 
 * [Random](./Random.md)
 
-## Suggestions?
-* Fork this repository, create a new branch, commit your changes and send a Pull Request!
-* You may help by collecting course materials you'd like to share (preferably math-related). Just don't forget to ask course instructors' permission to share them.
+## Want to Help?
+
+* Contact us in the [maintainers' chat](https://t.me/+zS_RREMuRMUzMDQy)
+
+### Lvl 1. Share materials
+
+* Before we share any materials, we ask course instructors for permission (unless the instructors have left the university or the course was taught quite a long time ago).
+
+* Hence, if you'd like to share your materials, ask your course instructors for a permission to do so. If they agree, send your files to [maintainers](#want-to-help?).
+    * If you'd like to share a folder, make a `.zip` (`.tar`, `.7z`, etc.) archive.
+    * A single file can be shared as-is.
+    * A repository can be shared as a link ([example](https://github.com/ParfenovIgor/F21-Programming-Paradigms-Y-3)).
+    * Try to contribute **really many allowed** (as much as possible) materials for one or more courses.
+
+* If you'd like, we will add your name to the main `README.md` file with all courses. People should know their heroes.
+    * If you have contributed several courses, you can select among them a place for your username.
+
+### Lvl 2. Become a Notes maintainer
+
+* Minimal duties
+    * Collect and share with maintainers all allowed remaining (not yet shared) course materials **after** at least one of your semesters. 
+    * The materials should belong to the courses taught during this semester.
+
+* Maximal duties
+    * All minimal duties +
+    * Stay in the maintainers' chat and ping maintainers on new materials if they're not uploaded asap
+    * Tell (younger Bach) students about Notes and encourage them to contribute
+    * Collect materials from your course and younger
+    * Find 1+ maintainers from fresher Bach before your 4th year
+    * Upload new files to Notes' GDrive
+    * Share your nice academic works with others and study well
+    * etc.
+
+* Your reward - become a member of `Inno-Notes` organization!
+    * After you have completed your minimal duties, contact [maintainers](#want-to-help?) and tell your github username.
+    * We'll check your contribution history and decide.
+    * Don't forget to enable [organization visibility](https://github.com/orgs/Inno-Notes/people) after you become a contributor!
