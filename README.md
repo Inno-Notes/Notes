@@ -290,7 +290,7 @@
 
 * Contact us in the [maintainers' chat](https://t.me/+zS_RREMuRMUzMDQy)
 
-### Lvl 1. Share materials
+### lvl 0. Share materials
 
 * Before we share any materials, we ask course instructors for permission (unless the instructors have left the university or the course was taught quite a long time ago).
 
@@ -303,7 +303,7 @@
 * If you'd like, we will add your name to the main `README.md` file with all courses. People should know their heroes.
     * If you have contributed several courses, you can select among them a place for your username.
 
-### Lvl 2. Become a Notes maintainer
+### lvl 1. Become a Notes maintainer
 
 * Minimal duties
     * Collect and share with maintainers all allowed remaining (not yet shared) course materials **after** at least one of your semesters. 
