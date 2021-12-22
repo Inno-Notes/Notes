@@ -292,24 +292,27 @@
 
 ### lvl 0. Share materials
 
-* Before we share any materials, we ask course instructors for permission (unless the instructors have left the university or the course was taught quite a long time ago).
+* <details> <summary> Basic process </summary>
 
-* Hence, if you'd like to share your materials, ask your course instructors for a permission to do so. If they agree, send your files to [maintainers](#want-to-help).
-    * Send a folder as a `.zip` (`.tar`, `.7z`, etc.) archive.
-    * Send a single file as-is.
-    * A repository can be shared as a link ([example](https://github.com/ParfenovIgor/F21-Programming-Paradigms-Y-3)).
-    * Try to contribute **really many allowed** (as much as possible) materials for one or more courses.
-
-* If you'd like, we will add your name to the main `README.md` file with all courses. People should know their heroes.
-    * If you have contributed several courses, you can select among them a place for your username.
+    * Select a technical course. Other courses are also OK, but can usually be studied "online" during a semester.
+    * Ask course instructors for permission to share their materials unless the instructors have left the university or the course was taught 2+ years ago.
+    * Send your file(s) to [maintainers](#want-to-help).
+        * Send a folder as a `.zip` (`.tar`, `.7z`, etc.) archive.
+        * Send a single file as-is.
+        * A repository can be shared as a link ([example](https://github.com/ParfenovIgor/F21-Programming-Paradigms-Y-3)).
+    * If you'd like, tell maintainers, and we will add your name to this `README.md` file. People should know their heroes!
+        * If you have contributed several courses, you can select among them a place for your username.
+    * Keep contributing as much as possible allowed materials for more courses!
 
 ### lvl 1. Become a Notes maintainer
 
-* Minimal duties
-    * Collect and share with maintainers all allowed remaining (not yet shared) course materials **after** at least one of your semesters. 
-    * The materials should belong to the courses taught during this semester.
+* <details> <summary> Minimal duties </summary>
 
-* Maximal duties
+    * Collect and share with maintainers all allowed remaining (not yet shared) course materials for at least one of your semesters. 
+    * Only math-related subjects will be counted!
+
+* <details> <summary> Maximal duties </summary>
+
     * All minimal duties +
     * Stay in the maintainers' chat and ping maintainers on new materials if they're not uploaded asap
     * Tell (younger Bach) students about Notes and encourage them to contribute
@@ -319,7 +322,9 @@
     * Share your nice academic works with others and study well
     * etc.
 
-* Your reward - become a member of `Inno-Notes` organization!
+* <details> <summary> Your reward ...! </summary>
+
+    * become a member of `Inno-Notes` organization!
     * After you have completed your minimal duties, contact [maintainers](#want-to-help) and tell your github username.
     * We'll check your contribution history and decide.
     * Don't forget to enable [organization visibility](https://github.com/orgs/Inno-Notes/people) after you become a contributor!
