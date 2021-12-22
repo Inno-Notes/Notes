@@ -219,6 +219,7 @@
     * <details> <summary> PS </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1u7DMAik2yaQYIOvQ_Kbxaxa6ndWL9E8G?usp=sharing)
+        * [Playlist](https://youtube.com/playlist?list=PLDtVwbUDS3Wlj5KY-HO0nM-BJixae64bX)
 
 ## MS20
 * S21
