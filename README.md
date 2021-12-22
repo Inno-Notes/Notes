@@ -295,8 +295,8 @@
 * Before we share any materials, we ask course instructors for permission (unless the instructors have left the university or the course was taught quite a long time ago).
 
 * Hence, if you'd like to share your materials, ask your course instructors for a permission to do so. If they agree, send your files to [maintainers](#want-to-help).
-    * If you'd like to share a folder, make a `.zip` (`.tar`, `.7z`, etc.) archive.
-    * A single file can be shared as-is.
+    * Send a folder as a `.zip` (`.tar`, `.7z`, etc.) archive.
+    * Send a single file as-is.
     * A repository can be shared as a link ([example](https://github.com/ParfenovIgor/F21-Programming-Paradigms-Y-3)).
     * Try to contribute **really many allowed** (as much as possible) materials for one or more courses.
 
