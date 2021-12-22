@@ -304,6 +304,15 @@
         * If you have contributed several courses, you can select among them a place for your username.
     * Keep contributing as much as possible allowed materials for more courses!
 
+* <details> <summary> Types of materials </summary>
+    
+    * Slides
+    * Video records (e.g., use your camera)
+    * Solutions to Assignments / HWs
+    * Exam problems / Tests
+    * Cheatsheets
+
+
 ### lvl 1. Become a Notes maintainer
 
 * <details> <summary> Minimal duties </summary>
