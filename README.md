@@ -294,7 +294,7 @@
 
 * <details> <summary> Basic process </summary>
 
-    * Select a technical course. Other courses are also OK, but can usually be studied "online" during a semester.
+    * Select a technical course. Other courses are also OK, but they can usually be studied "online" during a semester.
     * Ask course instructors for permission to share their materials unless the instructors have left the university or the course was taught 2+ years ago.
     * Send your file(s) to [maintainers](#want-to-help).
         * Send a folder as a `.zip` (`.tar`, `.7z`, etc.) archive.
