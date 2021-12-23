@@ -304,7 +304,8 @@
     * Send your file(s) to [maintainers](#want-to-help).
         * Send a folder as a `.zip` (`.tar`, `.7z`, etc.) archive.
         * Send a single file as-is.
-        * A repository can be shared as a link ([example](https://github.com/ParfenovIgor/F21-Programming-Paradigms-Y-3)).
+        * A repository (or a playlist) can be shared as a link ([example](https://github.com/ParfenovIgor/F21-Programming-Paradigms-Y-3)).
+        * We'll create a new playlist for your videos and let you upload them
     * If you'd like, tell maintainers, and we will add your name to this `README.md` file. People should know their heroes!
         * If you have contributed several courses, you can select among them a place for your username.
     * Keep contributing as much as possible allowed materials for more courses!
@@ -312,7 +313,7 @@
 * <details> <summary> Types of materials </summary>
     
     * Slides
-    * Video records (e.g., use your camera)
+    * Video records (e.g., with your camera during a lecture or your own tutorials)
     * Solutions to Assignments / HWs
     * Exam problems / Tests
     * Cheatsheets
