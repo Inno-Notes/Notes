@@ -314,8 +314,7 @@
     
     * Slides
     * Video records (e.g., with your camera during a lecture or your own tutorials)
-    * (Solutions to) Assignments / HWs
-    * Exam problems / Tests
+    * Assignment / HW / Exam / Test problems and solutions
     * Cheatsheets
 
 
