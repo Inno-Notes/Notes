@@ -341,4 +341,4 @@
     * become a member of `Inno-Notes` organization!
     * After you have completed your minimal duties, contact [maintainers](#want-to-help) and tell your github username.
     * We'll check your contribution history and decide.
-    * Don't forget to accept an invitation on GitHub and enable [organization visibility](https://github.com/orgs/Inno-Notes/people) after you become a contributor!
+    * Don't forget to accept an invitation on GitHub and change [organization visibility](https://github.com/orgs/Inno-Notes/people) to Public after you become a contributor!
