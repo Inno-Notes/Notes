@@ -1,5 +1,6 @@
 # Notes
 
+[Contact us](#want-to-help)
 
 ## BS21
 * F21
