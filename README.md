@@ -261,7 +261,6 @@
 
 
 ## Abbreviations
-<details> <summary> All here </summary>
 
 * **AGLA** - Analytical Geometry & Linear Algebra
 * **AI** - Artificial Intelligence
@@ -288,7 +287,6 @@
 * **SSAD** - Software Systems Analysis and Development
 * **TM** - Theoretical Mechanics
 * **TrackName-T** - specific to TrackName track
-</details>
 
 ## Other resources
 * [@suiu_news](https://t.me/suiu_news) - Student Union news channel
