@@ -33,7 +33,7 @@
     </details>
 
 ## BS20
-* <details> <summary> F20 </summary>
+* F20
 
     * <details> <summary> Calculus I ( <a href=https://github.com/RamilDautov)> RamilDautov </a>) </summary>
 
@@ -235,7 +235,7 @@
 
 
 ## BS17
-* <details> <summary> F20 </summary>
+* F20
 
     * <details> <summary> Contact-Aware Control (RO-T) </summary>
 
@@ -245,14 +245,14 @@
 
 ## BS?
 
-* <details> <summary> S? </summary>
+* S?
 
     * <details> <summary> ML </summary>
 
         * [Materials](https://github.com/yandexdataschool/MLatImperial2018)
     </details>
 
-* <details> <summary> S18 </summary>
+* S18
 
     * <details> <summary> CA </summary>
 
