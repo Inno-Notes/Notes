@@ -1,69 +1,68 @@
 # Notes
 
-## BS?
 
-* <details> <summary> S? </summary>
+## BS21
+* F21
 
-    * <details> <summary> ML </summary>
+    * <details> <summary> AGLA </summary>
 
-        * [Materials](https://github.com/yandexdataschool/MLatImperial2018)
+        * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8l4q7Z_ja2ajzr4pRGGvYZ)
     </details>
 
-* <details> <summary> S18 </summary>
+    * <details> <summary> MA I </summary>
 
-    * <details> <summary> CA </summary>
-
-        * [wiki](https://github.com/InnopolisStudents/wiki/tree/master/computer_architecture)
+        * [Solutions](https://www.mathcha.io/editor/kZ74DHn3TV4FNZIB5PDgqUvwDekuKwzLwQHNrVZr5)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha">
     </details>
 
-## BS17
+* S22
+
+    * <details> <summary> MA II </summary>
+
+        * Probable Assignments - see materials of previous BS
+        * [Solutions](https://www.mathcha.io/editor/z8JN2SMVfGXS9MH7K9y8Js3GE9NeI4W3O6KhNXLLxP)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha">
+    </details>
+
+
+## MS20
+* S21
+
+    * <details> <summary> CI </summary>
+
+        * [Playlist](https://youtu.be/YB-Pm6dPR7s)
+    </details>
+
+## BS20
 * <details> <summary> F20 </summary>
 
-    * <details> <summary> Contact-Aware Control (RO-T) </summary>
+    * <details> <summary> Calculus I ( <a href=https://github.com/RamilDautov)> RamilDautov </a>) </summary>
 
-        * [Materials](https://github.com/SergeiSa/Contact-Aware-Control-Slides-Fall-2020)
+        * [Materials](https://drive.google.com/drive/folders/1dY7DyV1RA9Fsk4RrFUzYEbxIgd1tpwbx?usp=sharing)
+        * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEbzrpqphMWQ06p70RtXRDwR)
     </details>
 
-## BS18
-* <details> <summary> F19-S20+ </summary>
+    * <details> <summary> EAGLA </summary>
 
-    * [Meta-repo](https://github.com/hany606/University-Courses-Repositories)
+        * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl-VXiod2y_fZTAVClyEXB-0)
     </details>
 
-* <details> <summary> F20 </summary>
+    * <details> <summary> MA I ( <a href=https://github.com/Maruf-co)> Maruf-co </a>) </summary>
 
-    * <details> <summary> FoR (RO-T) </summary>
+        * [Materials](https://drive.google.com/drive/folders/1mcCxkTXMLXvJQyKQhDyTsV3u95lbFLCf?usp=sharing)
+        * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv)
+    
+* S21
 
-        * [Materials](https://github.com/hany606/Introduction-to-Manipulators-FoR_Fall20IU)
+    * <details> <summary> MA II </summary>
 
-    * <details> <summary> IML </summary>
+        * [Materials](https://drive.google.com/drive/folders/1Tym4rFAEshjQhvDPenvpvyFgvOmV0Qo1?usp=sharing)
+        * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4Pap_gvxY2TTxZmyZ6VluPGgQ)
+* F21
 
-        * [Materials](https://github.com/hany606/Introduction-to-Machine-Learning-IML_Fall20IU)
+    * <details> <summary> PS </summary>
 
-    * <details> <summary> TM (RO-T) ( <a href=https://github.com/Lupasic)> Lupasic </a>) </summary>
+        * [Materials](https://drive.google.com/drive/folders/1u7DMAik2yaQYIOvQ_Kbxaxa6ndWL9E8G?usp=sharing)
+        * [Playlist](https://youtube.com/playlist?list=PLDtVwbUDS3Wlj5KY-HO0nM-BJixae64bX)
 
-        * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K) Labs
-        * [Materials](https://github.com/hany606/TM_Fall20IU)
-    </details>
-
-* <details> <summary> F21 </summary>
-
-    * <details> <summary> ICV </summary>
-
-        * [Materials](https://github.com/hany606/ICV_Fall21IU)
-
-    * <details> <summary> Numerical modeling ( <a href=https://github.com/hany606)> hany606 </a>) </summary>
-
-        * [Materials](https://github.com/hany606/NM_Fall21IU)
-
-    * <details> <summary> PA I </summary>
-
-        * [Materials](https://github.com/hany606/PAI_Fall21IU)
-
-    * <details> <summary> PMLDL </summary>
-
-        * [Materials](https://github.com/hany606/PMLDL_Fall21IU)
-    </details>
 
 ## BS19
 * F19
@@ -194,66 +193,72 @@
         * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl_DAnHFNvqVZMaEPHdYuhH6)
         * [Notes](https://www.mathcha.io/editor/D0kgysy7UqlHl4FW5YKO1IxK6nOdsENj9NPtoM1x2e)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text">
 
-## BS20
+## BS18
+* F19-S20+
+
+    * [Meta-repo](https://github.com/hany606/University-Courses-Repositories)
+
 * F20
 
-    * <details> <summary> Calculus I ( <a href=https://github.com/RamilDautov)> RamilDautov </a>) </summary>
+    * <details> <summary> FoR (RO-T) </summary>
 
-        * [Materials](https://drive.google.com/drive/folders/1dY7DyV1RA9Fsk4RrFUzYEbxIgd1tpwbx?usp=sharing)
-        * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEbzrpqphMWQ06p70RtXRDwR)
-    </details>
+        * [Materials](https://github.com/hany606/Introduction-to-Manipulators-FoR_Fall20IU)
 
-    * <details> <summary> EAGLA </summary>
+    * <details> <summary> IML </summary>
 
-        * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl-VXiod2y_fZTAVClyEXB-0)
-    </details>
+        * [Materials](https://github.com/hany606/Introduction-to-Machine-Learning-IML_Fall20IU)
 
-    * <details> <summary> MA I ( <a href=https://github.com/Maruf-co)> Maruf-co </a>) </summary>
+    * <details> <summary> TM (RO-T) ( <a href=https://github.com/Lupasic)> Lupasic </a>) </summary>
 
-        * [Materials](https://drive.google.com/drive/folders/1mcCxkTXMLXvJQyKQhDyTsV3u95lbFLCf?usp=sharing)
-        * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv)
-* S21
+        * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K) Labs
+        * [Materials](https://github.com/hany606/TM_Fall20IU)
 
-    * <details> <summary> MA II </summary>
-
-        * [Materials](https://drive.google.com/drive/folders/1Tym4rFAEshjQhvDPenvpvyFgvOmV0Qo1?usp=sharing)
-        * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4Pap_gvxY2TTxZmyZ6VluPGgQ)
 * F21
 
-    * <details> <summary> PS </summary>
+    * <details> <summary> ICV </summary>
 
-        * [Materials](https://drive.google.com/drive/folders/1u7DMAik2yaQYIOvQ_Kbxaxa6ndWL9E8G?usp=sharing)
-        * [Playlist](https://youtube.com/playlist?list=PLDtVwbUDS3Wlj5KY-HO0nM-BJixae64bX)
+        * [Materials](https://github.com/hany606/ICV_Fall21IU)
 
-## MS20
-* <details> <summary> S21 </summary>
+    * <details> <summary> Numerical modeling ( <a href=https://github.com/hany606)> hany606 </a>) </summary>
 
-    * <details> <summary> CI </summary>
+        * [Materials](https://github.com/hany606/NM_Fall21IU)
 
-        * [Playlist](https://youtu.be/YB-Pm6dPR7s)
+    * <details> <summary> PA I </summary>
+
+        * [Materials](https://github.com/hany606/PAI_Fall21IU)
+
+    * <details> <summary> PMLDL </summary>
+
+        * [Materials](https://github.com/hany606/PMLDL_Fall21IU)
+
+
+
+## BS17
+* <details> <summary> F20 </summary>
+
+    * <details> <summary> Contact-Aware Control (RO-T) </summary>
+
+        * [Materials](https://github.com/SergeiSa/Contact-Aware-Control-Slides-Fall-2020)
     </details>
 
-## BS21
-* F21
 
-    * <details> <summary> AGLA </summary>
+## BS?
 
-        * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8l4q7Z_ja2ajzr4pRGGvYZ)
+* <details> <summary> S? </summary>
+
+    * <details> <summary> ML </summary>
+
+        * [Materials](https://github.com/yandexdataschool/MLatImperial2018)
     </details>
 
-    * <details> <summary> MA I </summary>
+* <details> <summary> S18 </summary>
 
-        * [Solutions](https://www.mathcha.io/editor/kZ74DHn3TV4FNZIB5PDgqUvwDekuKwzLwQHNrVZr5)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha">
+    * <details> <summary> CA </summary>
+
+        * [wiki](https://github.com/InnopolisStudents/wiki/tree/master/computer_architecture)
     </details>
 
-* S22
 
-    * <details> <summary> MA II </summary>
-
-        * Probable Assignments - see materials of previous BS
-        * [Solutions](https://www.mathcha.io/editor/z8JN2SMVfGXS9MH7K9y8Js3GE9NeI4W3O6KhNXLLxP)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha">
-    </details>
-    
 ## Abbreviations
 <details> <summary> All here </summary>
 
