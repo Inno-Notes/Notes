@@ -326,8 +326,8 @@
 
 * <details> <summary> Minimal duties </summary>
 
-    * Collect and share with maintainers all allowed remaining (not yet shared) course materials for at least one of your semesters. 
-    * Only math-related subjects will be counted!
+    * Collect and share with maintainers 2+ allowed not yet shared course materials (as many types as possible).
+    * Preferably math-related
 
 * <details> <summary> Maximal duties </summary>
 
