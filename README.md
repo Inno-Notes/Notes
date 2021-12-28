@@ -306,12 +306,12 @@
     * Select a technical course. Other courses are also OK, but they can usually be studied "online" during a semester.
     * Ask course instructors for permission to share their materials unless the instructors have left the university or the course was taught 2+ years ago.
     * Send your file(s) to [maintainers](#want-to-help).
-        * Send a folder as a `.zip` (`.tar`, `.7z`, etc.) archive.
+        * Send a folder as a `.zip` (`.tar`, `.7z`, etc.) archive (see sample structure [here](https://drive.google.com/drive/folders/1EO_7EBNVICSLRz3lw-PCUOMMla7f7nQA?usp=sharing)). 
         * Send a single file as-is.
         * A repository (or a playlist) can be shared as a link ([example](https://github.com/ParfenovIgor/F21-Programming-Paradigms-Y-3)).
         * We'll create a new playlist for your videos and let you upload them
     * If you'd like, tell maintainers, and we will add your name to this `README.md` file. People should know their heroes!
-        * If you have contributed several courses, you can select among them a place for your username.
+        * We'll place your username on this page near the course you select if you've contributed several of them.
     * Keep contributing as much as possible allowed materials for more courses!
 
 * Types of materials
