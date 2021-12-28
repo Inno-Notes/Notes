@@ -301,7 +301,7 @@
 
 ### lvl 0. Share materials
 
-* <details> <summary> Basic process </summary>
+* Basic process
 
     * Select a technical course. Other courses are also OK, but they can usually be studied "online" during a semester.
     * Ask course instructors for permission to share their materials unless the instructors have left the university or the course was taught 2+ years ago.
@@ -314,7 +314,7 @@
         * If you have contributed several courses, you can select among them a place for your username.
     * Keep contributing as much as possible allowed materials for more courses!
 
-* <details> <summary> Types of materials </summary>
+* Types of materials
     
     * Slides
     * Video records (e.g., with your camera during a lecture or your own tutorials)
@@ -324,12 +324,12 @@
 
 ### lvl 1. Become a Notes maintainer
 
-* <details> <summary> Minimal duties </summary>
+* Minimal duties
 
     * Collect and share with maintainers 2+ allowed not yet shared course materials (as many types as possible).
     * Preferably math-related
 
-* <details> <summary> Maximal duties </summary>
+* Maximal duties
 
     * All minimal duties +
     * Stay in the maintainers' chat and ping maintainers on new materials if they're not uploaded asap
@@ -340,9 +340,9 @@
     * Share your nice academic works with others and study well
     * etc.
 
-* <details> <summary> Your reward ...! </summary>
+* Your reward
 
-    * become a member of `Inno-Notes` organization!
+    * You'll become a member of `Inno-Notes` organization!
     * After you have completed your minimal duties, contact [maintainers](#want-to-help) and tell your github username.
     * We'll check your contribution history and decide.
     * Don't forget to accept an invitation on GitHub and change [organization visibility](https://github.com/orgs/Inno-Notes/people) to Public after you become a contributor!
