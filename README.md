@@ -320,6 +320,7 @@
     * Video records (e.g., with your camera during a lecture or your own tutorials)
     * Assignment / HW / Exam / Test problems and solutions
     * Cheatsheets
+    * Your notes
 
 
 ### lvl 1. Become a Notes maintainer
