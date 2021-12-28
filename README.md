@@ -324,25 +324,26 @@
 
 ### lvl 1. Become a Notes maintainer
 
-* Minimal duties
+#### Minimal duties
 
-    * Collect and share with maintainers 1+ allowed not yet shared course materials (as many types as possible).
-    * Preferably math-related
+* Collect and share with maintainers 1+ allowed not yet shared course materials (as many types as possible).
+* Preferably math-related
 
-* Maximal duties
+#### Maximal duties
 
-    * All minimal duties +
-    * Stay in the maintainers' chat and ping maintainers on new materials if they're not uploaded asap
-    * Tell (younger Bach) students about Notes and encourage them to contribute
-    * Collect materials from your course and younger
-    * Find 1+ maintainers from fresher Bach before your 4th year
-    * Upload new files to Notes' GDrive
-    * Share your nice academic works with others and study well
-    * etc.
+* All minimal duties +
+* Stay in the maintainers' chat and ping maintainers on new materials if they're not uploaded asap
+* Tell (younger Bach) students about Notes and encourage them to contribute
+* Collect materials from your course and younger
+* Find 1+ maintainers from fresher Bach before your 4th year
+* Upload new files to Notes' GDrive
+* Share your nice academic works with others and study well
+* etc.
 
-* Your reward
+#### Your reward
 
-    * You'll become a member of `Inno-Notes` organization!
-    * After you have completed your minimal duties, contact [maintainers](#want-to-help) and tell your github username.
-    * We'll check your contribution history and decide.
-    * Don't forget to accept an invitation on GitHub and change [organization visibility](https://github.com/orgs/Inno-Notes/people) to Public after you become a contributor!
+* You'll become a member of `Inno-Notes` organization, so students can easily find your GitHub and follow!
+* Again, your GitHub username will be on this page near one of the courses you've contributed.
+* After you have completed your minimal duties, contact [maintainers](#want-to-help) and tell your github username.
+* We'll check your contribution history and decide.
+* Don't forget to accept an invitation on GitHub and change [organization visibility](https://github.com/orgs/Inno-Notes/people) to Public after you become a contributor!
