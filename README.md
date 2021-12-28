@@ -326,7 +326,7 @@
 
 * Minimal duties
 
-    * Collect and share with maintainers 2+ allowed not yet shared course materials (as many types as possible).
+    * Collect and share with maintainers 1+ allowed not yet shared course materials (as many types as possible).
     * Preferably math-related
 
 * Maximal duties
