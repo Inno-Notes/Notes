@@ -19,9 +19,11 @@
         * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8l4q7Z_ja2ajzr4pRGGvYZ)
     </details>
 
-    * <details> <summary> MA I </summary>
+    * <details> <summary> MA I ( <a href=https://github.com/ilnarkhasanov)> ilnarkhasanov </a> ) </summary>
 
         * [Solutions](https://www.mathcha.io/editor/kZ74DHn3TV4FNZIB5PDgqUvwDekuKwzLwQHNrVZr5)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha">
+        * [Materials](https://drive.google.com/drive/folders/1Td3herm_YaztibUSjMFaRUh9hn_dOajt?usp=sharing)
+
     </details>
 
 
