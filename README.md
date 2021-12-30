@@ -148,6 +148,7 @@
     * <details> <summary> DE ( <a href=https://github.com/ParfenovIgor)> ParfenovIgor </a>) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1eRpXYHxxzr3VnzggUzAnNlFxEZzPhU8-?usp=sharing)
+        * [Playlist](https://youtube.com/playlist?list=PL-9NmFdiBDkSQ30UqrXPHUfU2EClnKk0m)
     </details>
 
     * <details> <summary> Physics I - Mechanics ( <a href=https://github.com/vBazilevich)> vBazilevich </a>) </summary>
