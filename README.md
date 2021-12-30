@@ -3,6 +3,15 @@
 [Contact us](#want-to-help)
 
 ## BS21
+
+* S22
+
+    * <details> <summary> MA II </summary>
+
+        * Probable Assignments - see materials of previous BS
+        * [Solutions](https://www.mathcha.io/editor/z8JN2SMVfGXS9MH7K9y8Js3GE9NeI4W3O6KhNXLLxP)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha">
+    </details>
+
 * F21
 
     * <details> <summary> AGLA </summary>
@@ -15,14 +24,6 @@
         * [Solutions](https://www.mathcha.io/editor/kZ74DHn3TV4FNZIB5PDgqUvwDekuKwzLwQHNrVZr5)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha">
     </details>
 
-* S22
-
-    * <details> <summary> MA II </summary>
-
-        * Probable Assignments - see materials of previous BS
-        * [Solutions](https://www.mathcha.io/editor/z8JN2SMVfGXS9MH7K9y8Js3GE9NeI4W3O6KhNXLLxP)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha">
-    </details>
-
 
 ## MS20
 * S21
@@ -33,6 +34,21 @@
     </details>
 
 ## BS20
+
+* F21
+
+    * <details> <summary> PS </summary>
+
+        * [Materials](https://drive.google.com/drive/folders/1u7DMAik2yaQYIOvQ_Kbxaxa6ndWL9E8G?usp=sharing)
+        * [Playlist](https://youtube.com/playlist?list=PLDtVwbUDS3Wlj5KY-HO0nM-BJixae64bX)
+
+* S21
+
+    * <details> <summary> MA II </summary>
+
+        * [Materials](https://drive.google.com/drive/folders/1Tym4rFAEshjQhvDPenvpvyFgvOmV0Qo1?usp=sharing)
+        * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4Pap_gvxY2TTxZmyZ6VluPGgQ)
+
 * F20
 
     * <details> <summary> Calculus I ( <a href=https://github.com/RamilDautov)> RamilDautov </a>) </summary>
@@ -50,100 +66,8 @@
 
         * [Materials](https://drive.google.com/drive/folders/1mcCxkTXMLXvJQyKQhDyTsV3u95lbFLCf?usp=sharing)
         * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv)
-    
-* S21
-
-    * <details> <summary> MA II </summary>
-
-        * [Materials](https://drive.google.com/drive/folders/1Tym4rFAEshjQhvDPenvpvyFgvOmV0Qo1?usp=sharing)
-        * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4Pap_gvxY2TTxZmyZ6VluPGgQ)
-* F21
-
-    * <details> <summary> PS </summary>
-
-        * [Materials](https://drive.google.com/drive/folders/1u7DMAik2yaQYIOvQ_Kbxaxa6ndWL9E8G?usp=sharing)
-        * [Playlist](https://youtube.com/playlist?list=PLDtVwbUDS3Wlj5KY-HO0nM-BJixae64bX)
-
 
 ## BS19
-* F19
-    * <details> <summary> AGLA I </summary>
-
-        * [Materials](https://drive.google.com/drive/folders/1PfvdriF5lO0bA-6tFckQlBx18dd2yI7s?usp=sharing)
-    </details>
-
-    * <details> <summary> DM </summary>
-
-        * [Materials](https://drive.google.com/drive/folders/1EO_7EBNVICSLRz3lw-PCUOMMla7f7nQA?usp=sharing)
-    </details>
-
-    * <details> <summary> MA I ( <a href=https://github.com/SMore-Napi> SMore-Napi </a>) </summary>
-
-        * [Materials](https://drive.google.com/drive/folders/1FE7ZpD2TBKQRm3GY8fu8rMLBq1TqIIs7?usp=sharing)
-    </details>
-
-    * <details> <summary> PL </summary>
-
-        * [Materials](https://drive.google.com/drive/folders/15obxaQVzCoCPdgL8a0Ox0Mvq_9oslLf6?usp=sharing)
-    </details>
-
-    * <details> <summary> Text and pictures ( <a href=https://github.com/Delviet> Delviet</a>, <a href=https://github.com/seytkalievm>seytkalievm</a> ) </summary>
-
-        * [@b19lectut](http://t.me/b19lectut)
-* S20
-
-    * [How it began...](https://docs.google.com/spreadsheets/d/114FePEEj6Nrr9K4X5I8PyBfSbxn8VSk_O3lbiuxyC7M/edit?usp=sharing)
-
-    </details>
-
-    * <details> <summary> AGLA II </summary>
-
-        * [Materials](https://drive.google.com/drive/folders/1p4472WLNddEza9TlJh7N285x6ogDQFEo?usp=sharing)
-    </details>
-
-    * <details> <summary> MA II </summary>
-
-        * [Materials](https://drive.google.com/drive/folders/1lnqasIlQeh6MqU_ZFAeM-iMY_Ays3lZn?usp=sharing)
-        * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEag1Wc9ohTtmZkovLuZMAEG)
-* F20
-
-    * <details> <summary> DE ( <a href=https://github.com/ParfenovIgor)> ParfenovIgor </a>) </summary>
-
-        * [Materials](https://drive.google.com/drive/folders/1eRpXYHxxzr3VnzggUzAnNlFxEZzPhU8-?usp=sharing)
-    </details>
-
-    * <details> <summary> Physics I - Mechanics ( <a href=https://github.com/vBazilevich)> vBazilevich </a>) </summary>
-
-        * [Materials](https://drive.google.com/drive/folders/1944F88l5Q4IASBIfb9EjeJSst68QBkkY?usp=sharing)
-        * [Playlist](https://www.youtube.com/playlist?list=PLNh4MTycRwFC3nc0sv_0--T7OuLHxMkMK)
-    </details>
-
-    * <details> <summary> PS ( <a href=https://github.com/br4ch1st0chr0n3)> br4ch1st0chr0n3 </a>) </summary>
-
-        * [Materials](https://drive.google.com/drive/folders/1AsRhU_FxUbyklH1D9wR5NLjcBPnf_Ld4?usp=sharing)
-        * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEbWP1ov_FFfnPWZujSzF7jV)
-* S21
-
-    * <details> <summary> AI </summary>
-
-        * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4Paovn_wKttoAg3IrHTZSPMjy)
-    </details>
-    
-    * <details> <summary> CT </summary>
-
-        * [Materials](https://drive.google.com/drive/folders/1fkxnvpBowT61iej6w15-3OeI_RPukGSE?usp=sharing)
-        * [Repo](https://github.com/SergeiSa/Control-Theory-Slides-Spring-2021)
-    </details>
-
-    * <details> <summary> DB </summary>
-
-        * [Materials](https://drive.google.com/drive/folders/1uiA06foyWJMMO7bjBMg4ER1OOOQz0dwD?usp=sharing)
-        * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4ParNWZqsxD-j6MzP9nf7pV7t)
-    </details>
-
-    * <details> <summary> Physics II - Electrical Engineering </summary>
-
-        * [Materials](https://drive.google.com/drive/folders/1MW2yzolVjqBX5qgSgpH0jviJmMehRsMx?usp=sharing)
 * F21
 
     * <details> <summary> DNP </summary>
@@ -194,25 +118,90 @@
         * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl_DAnHFNvqVZMaEPHdYuhH6)
         * [Notes](https://www.mathcha.io/editor/D0kgysy7UqlHl4FW5YKO1IxK6nOdsENj9NPtoM1x2e)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text">
 
-## BS18
-* F19-S20+
+* S21
 
-    * [Meta-repo](https://github.com/hany606/University-Courses-Repositories)
+    * <details> <summary> AI </summary>
+
+        * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4Paovn_wKttoAg3IrHTZSPMjy)
+    </details>
+    
+    * <details> <summary> CT </summary>
+
+        * [Materials](https://drive.google.com/drive/folders/1fkxnvpBowT61iej6w15-3OeI_RPukGSE?usp=sharing)
+        * [Repo](https://github.com/SergeiSa/Control-Theory-Slides-Spring-2021)
+    </details>
+
+    * <details> <summary> DB </summary>
+
+        * [Materials](https://drive.google.com/drive/folders/1uiA06foyWJMMO7bjBMg4ER1OOOQz0dwD?usp=sharing)
+        * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4ParNWZqsxD-j6MzP9nf7pV7t)
+    </details>
+
+    * <details> <summary> Physics II - Electrical Engineering </summary>
+
+        * [Materials](https://drive.google.com/drive/folders/1MW2yzolVjqBX5qgSgpH0jviJmMehRsMx?usp=sharing)
 
 * F20
 
-    * <details> <summary> FoR (RO-T) </summary>
+    * <details> <summary> DE ( <a href=https://github.com/ParfenovIgor)> ParfenovIgor </a>) </summary>
 
-        * [Materials](https://github.com/hany606/Introduction-to-Manipulators-FoR_Fall20IU)
+        * [Materials](https://drive.google.com/drive/folders/1eRpXYHxxzr3VnzggUzAnNlFxEZzPhU8-?usp=sharing)
+    </details>
 
-    * <details> <summary> IML </summary>
+    * <details> <summary> Physics I - Mechanics ( <a href=https://github.com/vBazilevich)> vBazilevich </a>) </summary>
 
-        * [Materials](https://github.com/hany606/Introduction-to-Machine-Learning-IML_Fall20IU)
+        * [Materials](https://drive.google.com/drive/folders/1944F88l5Q4IASBIfb9EjeJSst68QBkkY?usp=sharing)
+        * [Playlist](https://www.youtube.com/playlist?list=PLNh4MTycRwFC3nc0sv_0--T7OuLHxMkMK)
+    </details>
 
-    * <details> <summary> TM (RO-T) ( <a href=https://github.com/Lupasic)> Lupasic </a>) </summary>
+    * <details> <summary> PS ( <a href=https://github.com/br4ch1st0chr0n3)> br4ch1st0chr0n3 </a>) </summary>
 
-        * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K) Labs
-        * [Materials](https://github.com/hany606/TM_Fall20IU)
+        * [Materials](https://drive.google.com/drive/folders/1AsRhU_FxUbyklH1D9wR5NLjcBPnf_Ld4?usp=sharing)
+        * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEbWP1ov_FFfnPWZujSzF7jV)
+
+* S20
+
+    * [How it began...](https://docs.google.com/spreadsheets/d/114FePEEj6Nrr9K4X5I8PyBfSbxn8VSk_O3lbiuxyC7M/edit?usp=sharing)
+
+    </details>
+
+    * <details> <summary> AGLA II </summary>
+
+        * [Materials](https://drive.google.com/drive/folders/1p4472WLNddEza9TlJh7N285x6ogDQFEo?usp=sharing)
+    </details>
+
+    * <details> <summary> MA II </summary>
+
+        * [Materials](https://drive.google.com/drive/folders/1lnqasIlQeh6MqU_ZFAeM-iMY_Ays3lZn?usp=sharing)
+        * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEag1Wc9ohTtmZkovLuZMAEG)
+
+* F19
+    * <details> <summary> AGLA I </summary>
+
+        * [Materials](https://drive.google.com/drive/folders/1PfvdriF5lO0bA-6tFckQlBx18dd2yI7s?usp=sharing)
+    </details>
+
+    * <details> <summary> DM </summary>
+
+        * [Materials](https://drive.google.com/drive/folders/1EO_7EBNVICSLRz3lw-PCUOMMla7f7nQA?usp=sharing)
+    </details>
+
+    * <details> <summary> MA I ( <a href=https://github.com/SMore-Napi> SMore-Napi </a>) </summary>
+
+        * [Materials](https://drive.google.com/drive/folders/1FE7ZpD2TBKQRm3GY8fu8rMLBq1TqIIs7?usp=sharing)
+    </details>
+
+    * <details> <summary> PL </summary>
+
+        * [Materials](https://drive.google.com/drive/folders/15obxaQVzCoCPdgL8a0Ox0Mvq_9oslLf6?usp=sharing)
+    </details>
+
+    * <details> <summary> Text and pictures ( <a href=https://github.com/Delviet> Delviet</a>, <a href=https://github.com/seytkalievm>seytkalievm</a> ) </summary>
+
+        * [@b19lectut](http://t.me/b19lectut)
+
+
+## BS18
 
 * F21
 
@@ -231,6 +220,25 @@
     * <details> <summary> PMLDL </summary>
 
         * [Materials](https://github.com/hany606/PMLDL_Fall21IU)
+
+* F20
+
+    * <details> <summary> FoR (RO-T) </summary>
+
+        * [Materials](https://github.com/hany606/Introduction-to-Manipulators-FoR_Fall20IU)
+
+    * <details> <summary> IML </summary>
+
+        * [Materials](https://github.com/hany606/Introduction-to-Machine-Learning-IML_Fall20IU)
+
+    * <details> <summary> TM (RO-T) ( <a href=https://github.com/Lupasic)> Lupasic </a>) </summary>
+
+        * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K) Labs
+        * [Materials](https://github.com/hany606/TM_Fall20IU)
+
+* F19-S20+
+
+    * [Meta-repo](https://github.com/hany606/University-Courses-Repositories)
 
 
 
