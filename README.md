@@ -23,7 +23,6 @@
 
         * [Solutions](https://www.mathcha.io/editor/kZ74DHn3TV4FNZIB5PDgqUvwDekuKwzLwQHNrVZr5)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha">
         * [Materials](https://drive.google.com/drive/folders/1Td3herm_YaztibUSjMFaRUh9hn_dOajt?usp=sharing)
-
     </details>
 
 
@@ -106,6 +105,8 @@
 
         * [Materials](https://github.com/ParfenovIgor/F21-Programming-Paradigms-Y-3)
         * [Labs and Assignments](https://github.com/SMore-Napi/PP_Innopolis)
+        * [Haskell for Imperative Programmers](https://youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
+        * [LYAH](https://web.archive.org/web/20211125090205/http://learnyouahaskell.com/chapters)
     </details>
 
     * <details> <summary> SSAD </summary>
