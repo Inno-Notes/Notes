@@ -119,7 +119,7 @@
 
         * [Materials](https://drive.google.com/drive/folders/1XCHrFHR_gR_kGcduNOUu9F1I9IaI1bME?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl_DAnHFNvqVZMaEPHdYuhH6)
-        * [Notes](https://www.mathcha.io/editor/D0kgysy7UqlHl4FW5YKO1IxK6nOdsENj9NPtoM1x2e)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text">
+        * [Notes](https://www.mathcha.io/editor/D0kgysy7UqlHl4FW5YKO1IxK6nOdsENj9NPtoM1x2e)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text"x>
 
 * S21
 
@@ -304,7 +304,7 @@
 ## Other resources
 * [@suiu_news](https://t.me/suiu_news) - Student Union news channel
 
-* [Mathcha](https://www.mathcha.io/)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha"> - free online [WYSIWYG](https://youtu.be/OurIS30Fi_A) *LaTeX* editor
+* [Mathcha](https://www.mathcha.io/)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha"> - free online [WYSIWYG](https://www.mathcha.io/documentation/) *Math* editor
 
 * [Random](./Random.md)
 
