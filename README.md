@@ -26,7 +26,7 @@
     </details>
 
     * <details> <summary> DML ( <a href=http://github.com/dmfrpro> dmfrpro </a> ) </summary>
-       
+
         * [Materials](https://drive.google.com/drive/folders/1aA2awuAw7N-GaBScUTcocrFKqH1_8GSv?usp=sharing)
     </details>
 
@@ -289,6 +289,7 @@
 * **DB** - Databases
 * **DE** - Differential Equations
 * **DM** - Discrete Math
+* **DML** - Discrete Math and Logic
 * **DNP** - Distributed and Network Programming
 * **EAGLA** - Essential AGLA
 * **FoR** - Fundamentals of Robotics
