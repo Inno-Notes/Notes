@@ -148,6 +148,7 @@
     * <details> <summary> Physics II - Electrical Engineering </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1MW2yzolVjqBX5qgSgpH0jviJmMehRsMx?usp=sharing)
+        * [Electronic Circuit Simulator](https://www.falstad.com/circuit/)
 
 * F20
 
