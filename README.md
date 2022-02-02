@@ -19,13 +19,13 @@
         * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8l4q7Z_ja2ajzr4pRGGvYZ)
     </details>
 
-    * <details> <summary> MA I ( <a href=https://github.com/ilnarkhasanov> ilnarkhasanov </a> ) </summary>
+    * <details> <summary> MA I ( <a href="https://github.com/ilnarkhasanov"> ilnarkhasanov </a> ) </summary>
 
         * [Solutions](https://www.mathcha.io/editor/kZ74DHn3TV4FNZIB5PDgqUvwDekuKwzLwQHNrVZr5)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha">
         * [Materials](https://drive.google.com/drive/folders/1Td3herm_YaztibUSjMFaRUh9hn_dOajt?usp=sharing)
     </details>
 
-    * <details> <summary> DML ( <a href=http://github.com/dmfrpro> dmfrpro </a> ) </summary>
+    * <details> <summary> DML ( <a href="http://github.com/dmfrpro"> dmfrpro </a> ) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1aA2awuAw7N-GaBScUTcocrFKqH1_8GSv?usp=sharing)
     </details>
@@ -57,7 +57,7 @@
 
 * F20
 
-    * <details> <summary> Calculus I ( <a href=https://github.com/RamilDautov)> RamilDautov </a>) </summary>
+    * <details> <summary> Calculus I ( <a href="https://github.com/RamilDautov")> RamilDautov </a>) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1dY7DyV1RA9Fsk4RrFUzYEbxIgd1tpwbx?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEbzrpqphMWQ06p70RtXRDwR)
@@ -68,7 +68,7 @@
         * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl-VXiod2y_fZTAVClyEXB-0)
     </details>
 
-    * <details> <summary> MA I ( <a href=https://github.com/Maruf-co)> Maruf-co </a>) </summary>
+    * <details> <summary> MA I ( <a href="https://github.com/Maruf-co")> Maruf-co </a>) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1mcCxkTXMLXvJQyKQhDyTsV3u95lbFLCf?usp=sharing)
         * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv)
@@ -81,7 +81,7 @@
         * [Materials](https://drive.google.com/drive/folders/14Zy1w1O0XSmjfU8XOV32m2-uMRUJQVTG?usp=sharing)
     </details>
 
-    * <details> <summary> FoR (RO-T) ( <a href=https://github.com/mirnanoukari> mirnanoukari </a>) </summary>
+    * <details> <summary> FoR (RO-T) ( <a href="https://github.com/mirnanoukari"> mirnanoukari </a>) </summary>
 
         * [Materials](https://github.com/br4ch1st0chr0n3/F21FoR)
         * [Assignments](https://github.com/mirnanoukari/FoR). Check Lab slides to install and run ROS lab
@@ -101,7 +101,7 @@
         * [Playlist](https://youtube.com/playlist?list=PLDtVwbUDS3WnlwDgpHnPVUvwDrjHNkRVh) Lectures
     </details>
 
-    * <details> <summary> Philosophy ( <a href=https://github.com/implausibleDenyability)> implausibleDenyability </a>) </summary>
+    * <details> <summary> Philosophy ( <a href="https://github.com/implausibleDenyability")> implausibleDenyability </a>) </summary>
 
         * [Notes](https://orchid-creature-596.notion.site/Philosophy-cbd3fcb9b2984d3b93a6af48aef7f797)
     </details>
@@ -152,19 +152,19 @@
 
 * F20
 
-    * <details> <summary> DE ( <a href=https://github.com/ParfenovIgor)> ParfenovIgor </a>) </summary>
+    * <details> <summary> DE ( <a href="https://github.com/ParfenovIgor" )> ParfenovIgor </a>) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1eRpXYHxxzr3VnzggUzAnNlFxEZzPhU8-?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PL-9NmFdiBDkSQ30UqrXPHUfU2EClnKk0m)
     </details>
 
-    * <details> <summary> Physics I - Mechanics ( <a href=https://github.com/vBazilevich)> vBazilevich </a>) </summary>
+    * <details> <summary> Physics I - Mechanics ( <a href="https://github.com/vBazilevich")> vBazilevich </a>) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1944F88l5Q4IASBIfb9EjeJSst68QBkkY?usp=sharing)
         * [Playlist](https://www.youtube.com/playlist?list=PLNh4MTycRwFC3nc0sv_0--T7OuLHxMkMK)
     </details>
 
-    * <details> <summary> PS ( <a href=https://github.com/br4ch1st0chr0n3)> br4ch1st0chr0n3 </a>) </summary>
+    * <details> <summary> PS ( <a href="https://github.com/br4ch1st0chr0n3")> br4ch1st0chr0n3 </a>) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1AsRhU_FxUbyklH1D9wR5NLjcBPnf_Ld4?usp=sharing)
         * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEbWP1ov_FFfnPWZujSzF7jV)
@@ -196,7 +196,7 @@
         * [Materials](https://drive.google.com/drive/folders/1EO_7EBNVICSLRz3lw-PCUOMMla7f7nQA?usp=sharing)
     </details>
 
-    * <details> <summary> MA I ( <a href=https://github.com/SMore-Napi> SMore-Napi </a>) </summary>
+    * <details> <summary> MA I ( <a href="https://github.com/SMore-Napi"> SMore-Napi </a>) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1FE7ZpD2TBKQRm3GY8fu8rMLBq1TqIIs7?usp=sharing)
     </details>
@@ -207,7 +207,7 @@
         * [Presentations](https://docs.google.com/spreadsheets/d/1wriKyCsxD6wyCVHkcdR95yQheSQeU7Xbqx7bO1P0bdI/edit?usp=sharing)
     </details>
 
-    * <details> <summary> Text and pictures ( <a href=https://github.com/Delviet> Delviet</a>, <a href=https://github.com/seytkalievm>seytkalievm</a> ) </summary>
+    * <details> <summary> Text and pictures ( <a href="https://github.com/Delviet"> Delviet</a>, <a href="https://github.com/seytkalievm">seytkalievm</a> ) </summary>
 
         * [@b19lectut](http://t.me/b19lectut)
 
@@ -220,7 +220,7 @@
 
         * [Materials](https://github.com/hany606/ICV_Fall21IU)
 
-    * <details> <summary> Numerical modeling ( <a href=https://github.com/hany606)> hany606 </a>) </summary>
+    * <details> <summary> Numerical modeling ( <a href="https://github.com/hany606")> hany606 </a>) </summary>
 
         * [Materials](https://github.com/hany606/NM_Fall21IU)
 
@@ -242,7 +242,7 @@
 
         * [Materials](https://github.com/hany606/Introduction-to-Machine-Learning-IML_Fall20IU)
 
-    * <details> <summary> TM (RO-T) ( <a href=https://github.com/Lupasic)> Lupasic </a>) </summary>
+    * <details> <summary> TM (RO-T) ( <a href="https://github.com/Lupasic")> Lupasic </a>) </summary>
 
         * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K) Labs
         * [Materials](https://github.com/hany606/TM_Fall20IU)
