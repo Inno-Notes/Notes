@@ -333,7 +333,7 @@
 * Basic process
 
     * Select a technical course. Other courses are also OK, but they can usually be studied "online" during a semester.
-    * Ask course instructors for permission to share their materials unless the instructors have left the university or the course was taught 2+ years ago.
+    * Ask course instructors for permission to share their materials unless the instructors have left the university or it is opensourced.
     * Send your file(s) to [maintainers](#want-to-help).
         * Send a folder as a `.zip` (`.tar`, `.7z`, etc.) archive (see sample structure [here](https://drive.google.com/drive/folders/1EO_7EBNVICSLRz3lw-PCUOMMla7f7nQA?usp=sharing)). 
         * Send a single file as-is.
