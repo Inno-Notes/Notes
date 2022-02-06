@@ -57,7 +57,7 @@
 
 * F20
 
-    * <details> <summary> Calculus I ( <a href="https://github.com/RamilDautov")> RamilDautov </a>) </summary>
+    * <details> <summary> Calculus I ( <a href="https://github.com/RamilDautov"> RamilDautov </a>) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1dY7DyV1RA9Fsk4RrFUzYEbxIgd1tpwbx?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEbzrpqphMWQ06p70RtXRDwR)
@@ -68,12 +68,19 @@
         * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl-VXiod2y_fZTAVClyEXB-0)
     </details>
 
-    * <details> <summary> MA I ( <a href="https://github.com/Maruf-co")> Maruf-co </a>) </summary>
+    * <details> <summary> MA I ( <a href="https://github.com/Maruf-co"> Maruf-co </a>) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1mcCxkTXMLXvJQyKQhDyTsV3u95lbFLCf?usp=sharing)
         * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv)
 
 ## BS19
+* S22
+    * <details> <summary> MM (RO-T) </summary>
+
+        * [Drawing rules](http://gk-drawing.ru/plotting/) in Russian
+        * You may like Autodesk Inventor with a [student license](https://www.autodesk.com/education/students)
+    </details>
+
 * F21
 
     * <details> <summary> DNP </summary>
@@ -210,6 +217,7 @@
     * <details> <summary> Text and pictures ( <a href="https://github.com/Delviet"> Delviet</a>, <a href="https://github.com/seytkalievm">seytkalievm</a> ) </summary>
 
         * [@b19lectut](http://t.me/b19lectut)
+    </details>
 
 
 ## BS18
@@ -242,7 +250,7 @@
 
         * [Materials](https://github.com/hany606/Introduction-to-Machine-Learning-IML_Fall20IU)
 
-    * <details> <summary> TM (RO-T) ( <a href="https://github.com/Lupasic")> Lupasic </a>) </summary>
+    * <details> <summary> TM (RO-T) ( <a href="https://github.com/Lupasic"> Lupasic </a>) </summary>
 
         * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K) Labs
         * [Materials](https://github.com/hany606/TM_Fall20IU)
@@ -298,6 +306,7 @@
 * **IML** - Introduction to ML
 * **MA** - Mathematical Analysis
 * **ML** - Machine Learning
+* **MM** - Mechanics and Machines
 * **PAI** - Practical AI
 * **PL** - Philosophy (Logic)
 * **PMLDL** - Practical Machine Learning and Deep Learning
