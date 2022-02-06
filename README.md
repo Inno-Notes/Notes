@@ -81,6 +81,12 @@
         * You may like Autodesk Inventor with a [student license](https://www.autodesk.com/education/students)
     </details>
 
+    * <details> <summary> IR (Not RO-T) </summary>
+
+        * [Materials](https://github.com/IUCVLab/information-retrieval) in Russian
+    </details>
+    
+
 * F21
 
     * <details> <summary> DNP </summary>
