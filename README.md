@@ -125,6 +125,7 @@
         * [Labs and Assignments](https://github.com/SMore-Napi/PP_Innopolis)
         * [Haskell for Imperative Programmers](https://youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
         * [LYAH](https://web.archive.org/web/20211125090205/http://learnyouahaskell.com/chapters)
+        * [ruhaskell](https://ruhaskell.org/links.html)
     </details>
 
     * <details> <summary> SSAD </summary>
