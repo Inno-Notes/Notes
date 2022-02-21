@@ -126,6 +126,7 @@
         * [Haskell for Imperative Programmers](https://youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
         * [LYAH](https://web.archive.org/web/20211125090205/http://learnyouahaskell.com/chapters)
         * [ruhaskell](https://ruhaskell.org/links.html)
+        * [Haskell Debug Adapter](https://marketplace.visualstudio.com/items?itemName=phoityne.phoityne-vscode). See how to set [startup file](https://github.com/phoityne/hdx4vsc/blob/master/README_ghc86.md#setting-the-startup-hs-file) and [startup function](https://github.com/phoityne/hdx4vsc/blob/master/README_ghc86.md#setting-the-startup-function)
     </details>
 
     * <details> <summary> SSAD </summary>
