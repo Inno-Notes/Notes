@@ -139,7 +139,7 @@
 
         * [Materials](https://drive.google.com/drive/folders/1XCHrFHR_gR_kGcduNOUu9F1I9IaI1bME?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl_DAnHFNvqVZMaEPHdYuhH6)
-        * [Notes](https://www.mathcha.io/editor/D0kgysy7UqlHl4FW5YKO1IxK6nOdsENj9NPtoM1x2e)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text"x>
+        * [Notes](https://www.mathcha.io/editor/D0kgysy7UqlHl4FW5YKO1IxK6nOdsENj9NPtoM1x2e)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text">
 
 * S21
 
