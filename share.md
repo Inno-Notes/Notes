@@ -1,53 +1,57 @@
 # Sharing rules
 
+## General rules
+
+### Free sharing
+* Publicly available repositories, including external ones
+* Publicly available course books, scientific, technical papers
+* Public videos or playlists
+* Links to [legally available](https://eais.rkn.gov.ru/en/) resources:
+    * [SciHub](https://sci-hub.hkvisa.net/)
+    * [Medium Unlimited](https://addons.mozilla.org/ru/firefox/addon/medium-unlimited-read-for-free/)
+    * [Twirpx](https://twirpx-com.ru/)
+    * [Libgen](https://libgen.is/)
+    * [Rutracker](https://rutracker.org/forum/index.php)
 
 
-## lvl 0. Share materials
+### Require written or oral permission of an author (or course instructor) to share
+* A student's self-prepared notes
+* Any kind of repositories with course materials
+* Problem statements from Homeworks and Exams
 
-* Basic process
+### Cannot be shared
+* Solutions that weren't presented during lectures/tutorials
+* Pirated materials
 
-    * Select a technical course. Other courses are also OK, but they can usually be studied "online" during a semester.
-    * Ask course instructors for permission to share their materials unless the instructors have left the university or it is opensourced.
-    * Send your file(s) to [maintainers](#want-to-help).
-        * Send a folder as a `.zip` (`.tar`, `.7z`, etc.) archive (see sample structure [here](https://drive.google.com/drive/folders/1EO_7EBNVICSLRz3lw-PCUOMMla7f7nQA?usp=sharing)). 
-        * Send a single file as-is.
-        * A repository (or a playlist) can be shared as a link ([example](https://github.com/ParfenovIgor/F21-Programming-Paradigms-Y-3)).
-        * We'll create a new playlist for your videos and let you upload them
-    * If you'd like, tell maintainers, and we will add your name to this `README.md` file. People should know their heroes!
-        * We'll place your username on this page near the course you select if you've contributed several of them.
-    * Keep contributing as much as possible allowed materials for more courses!
+## What and How to share
 
-* Types of materials
-    
-    * Slides
-    * Video records (e.g., with your camera during a lecture or your own tutorials)
-    * Assignment / HW / Exam / Test problems and solutions
-    * Cheatsheets
-    * Your notes
+### What we collect   
+* Slides
+* Video recordings (e.g., with your camera during a lecture or your own tutorials)
+* Assignment / HW / Exam / Test problems and solutions
+* Cheatsheets
+* Your notes
 
+### Basic process
+* Select a course
+* Ask course instructors for permission to share their materials unless the instructors have left the university <!-- TODO --> or it is opensourced.
+* Send your file(s) to [maintainers](./README.md#want-to-help).
+    * Send a folder(s) as `.zip` (`.tar`, `.7z`, etc.) archive(s) (see sample structure [here](https://drive.google.com/drive/folders/1EO_7EBNVICSLRz3lw-PCUOMMla7f7nQA?usp=sharing)).
+    * Send a single file as-is.
+    * A repository (or a playlist) can be shared as a link ([example](https://github.com/ParfenovIgor/F21-Programming-Paradigms-Y-3)).
+    * We'll create a new playlist for your videos and upload them
+* If you'd like, tell maintainers, and we will add your name to this `README.md` file. People should know their heroes!
+    * We'll place your username on this page near the course you select if you've contributed several courses.
+* Keep contributing as much as possible allowed materials for more courses!
 
-## lvl 1. Become a Notes maintainer
+### Become a Notes maintainer
 
-## Minimal duties
+* If you'd like to become a maintainer, just stay in our chat and send materials whenever you can.
 
-* Collect and share with maintainers 1+ allowed not yet shared course materials (as many types as possible).
-* Preferably math-related
+* Pls don't ignore when there appear calls to action. We're all volunteers and expect that you will give some time to this project.
 
-## Maximal duties
+* When there come newbie students, tell them about our project. It may make their life easier in the first years.
 
-* All minimal duties +
-* Stay in the maintainers' chat and ping maintainers on new materials if they're not uploaded asap
-* Tell (younger Bach) students about Notes and encourage them to contribute
-* Collect materials from your course and younger
-* Find 1+ maintainers from fresher Bach before your 4th year
-* Upload new files to Notes' GDrive
-* Share your nice academic works with others and study well
-* etc.
+* Invite them to contribute. This will create a stable supply of maintainers.
 
-## Your reward
-
-* You'll become a member of `Inno-Notes` organization, so students can easily find your GitHub and follow!
-* Again, your GitHub username will be on this page near one of the courses you've contributed.
-* After you have completed your minimal duties, contact [maintainers](#want-to-help) and tell your github username.
-* We'll check your contribution history and decide.
-* Don't forget to accept an invitation on GitHub and change [organization visibility](https://github.com/orgs/Inno-Notes/people) to Public after you become a contributor!
+* If you'd like, we can add you to the `Inno-Notes` organization on GitHub. Just [contact us](./README.md#want-to-help). Don't forget to accept an invitation on GitHub and change [organization visibility](https://github.com/orgs/Inno-Notes/people) to `Public` after you become a contributor!
