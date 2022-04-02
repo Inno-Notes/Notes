@@ -2,6 +2,8 @@
 
 [Contact us](#want-to-help)
 
+[Join our private Telegram channel](https://t.me/+Up2u4_lCIullNTQy) to watch alternative (@) playlists!
+
 ## BS21
 
 * S22
@@ -65,7 +67,8 @@
 
     * <details> <summary> EAGLA </summary>
 
-        * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl-VXiod2y_fZTAVClyEXB-0)
+        * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl-VXiod2y_fZTAVClyEXB-0) / [@](./playlists.md#eagla-1)
+
     </details>
 
     * <details> <summary> MA I ( <a href="https://github.com/Maruf-co"> Maruf-co </a>) </summary>
