@@ -11,7 +11,6 @@
     * <details> <summary> MA II </summary>
 
         * Probable Assignments - see materials of previous BS
-        * [Solutions](https://www.mathcha.io/editor/z8JN2SMVfGXS9MH7K9y8Js3GE9NeI4W3O6KhNXLLxP)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha">
     </details>
 
 * F21
@@ -23,7 +22,6 @@
 
     * <details> <summary> MA I ( <a href="https://github.com/ilnarkhasanov"> ilnarkhasanov </a> ) </summary>
 
-        * [Solutions](https://www.mathcha.io/editor/kZ74DHn3TV4FNZIB5PDgqUvwDekuKwzLwQHNrVZr5)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha">
         * [Materials](https://drive.google.com/drive/folders/1Td3herm_YaztibUSjMFaRUh9hn_dOajt?usp=sharing)
     </details>
 
@@ -38,10 +36,16 @@
 
     * <details> <summary> CI </summary>
 
-        * [Playlist](https://youtu.be/YB-Pm6dPR7s)
+        * [Playlist](https://youtube.com/playlist?list=PLlxR_sEKjSpQpIgRykNdcwITKqXl3Gu-K)
     </details>
 
 ## BS20
+* S22
+
+    * <details> <summary> PS </summary>
+        
+        * [Playlist](https://youtube.com/playlist?list=PLlxR_sEKjSpQ2pmaZeut4ePfMtK_26UPh)
+    </details>
 
 * F21
 
@@ -74,19 +78,27 @@
     * <details> <summary> MA I ( <a href="https://github.com/Maruf-co"> Maruf-co </a>) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1mcCxkTXMLXvJQyKQhDyTsV3u95lbFLCf?usp=sharing)
-        * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv)
+        * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv)
+     </details>
 
 ## BS19
 * S22
+    * <details> <summary> IR (Not RO-T) </summary>
+
+        * [Materials](https://github.com/IUCVLab/information-retrieval)
+    </details>
+
     * <details> <summary> MM (RO-T) </summary>
 
         * [Drawing rules](http://gk-drawing.ru/plotting/) in Russian
-        * You may like Autodesk Inventor with a [student license](https://www.autodesk.com/education/students)
+        * You may like Autodesk Inventor with a [student license](https://www.autodesk.com/education/students).
+        * We had Ansys on final exam. **8 retakers** / 15 students)
+
     </details>
 
-    * <details> <summary> IR (Not RO-T) </summary>
+    * <details> <summary> ANC (Elective) </summary>
 
-        * [Materials](https://github.com/IUCVLab/information-retrieval) in Russian
+        * [Notes](https://www.mathcha.io/editor/pgvxnsKESNpIQ3h5drWMnSJ1vXdvtYvo8ZVfm1rw9q)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text">
     </details>
     
 
@@ -123,7 +135,8 @@
     </details>
 
     * <details> <summary> PP (AI-T, SD-T, CS-T) </summary>
-
+        
+        * [Playlist](https://youtube.com/playlist?list=PLov3NSwpY86eMWcSLVDi071ertPAA22Dr)
         * [Materials](https://github.com/ParfenovIgor/F21-Programming-Paradigms-Y-3)
         * [Labs and Assignments](https://github.com/SMore-Napi/PP_Innopolis)
         * [Haskell for Imperative Programmers](https://youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
@@ -134,6 +147,7 @@
 
     * <details> <summary> SSAD </summary>
 
+        * [Playlist](https://youtube.com/playlist?list=PLaIsQH4uc08woJKRAA7mmjs9fU0jeKjjM)
         * [Materials](https://drive.google.com/drive/folders/1kqhm1EKLcxxMUERUn7BhRtaV4yEWdp86?usp=sharing)
         * [Repo](https://github.com/yegor256/ssd16)
     </details>
@@ -155,6 +169,8 @@
 
         * [Materials](https://drive.google.com/drive/folders/1fkxnvpBowT61iej6w15-3OeI_RPukGSE?usp=sharing)
         * [Repo](https://github.com/SergeiSa/Control-Theory-Slides-Spring-2021)
+        * [Playlist](https://youtube.com/watch?v=x2cYtqJR-qg&list=PLlxR_sEKjSpTyteBJYJR6WBuAlPineEwz)
+        
     </details>
 
     * <details> <summary> DB </summary>
@@ -179,13 +195,13 @@
     * <details> <summary> Physics I - Mechanics ( <a href="https://github.com/vBazilevich")> vBazilevich </a>) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1944F88l5Q4IASBIfb9EjeJSst68QBkkY?usp=sharing)
-        * [Playlist](https://www.youtube.com/playlist?list=PLNh4MTycRwFC3nc0sv_0--T7OuLHxMkMK)
+        * [Playlist](https://youtube.com/playlist?list=PLNh4MTycRwFC3nc0sv_0--T7OuLHxMkMK)
     </details>
 
     * <details> <summary> PS ( <a href="https://github.com/br4ch1st0chr0n3")> br4ch1st0chr0n3 </a>) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1AsRhU_FxUbyklH1D9wR5NLjcBPnf_Ld4?usp=sharing)
-        * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEbWP1ov_FFfnPWZujSzF7jV)
+        * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEbWP1ov_FFfnPWZujSzF7jV)
 
 * S20
 
@@ -201,7 +217,7 @@
     * <details> <summary> MA II </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1lnqasIlQeh6MqU_ZFAeM-iMY_Ays3lZn?usp=sharing)
-        * [Playlist](https://www.youtube.com/playlist?list=PLUI4rqPAsSEag1Wc9ohTtmZkovLuZMAEG)
+        * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEag1Wc9ohTtmZkovLuZMAEG)
 
 * F19
     * <details> <summary> AGLA I </summary>
@@ -302,6 +318,7 @@
 
 * **AGLA** - Analytical Geometry & Linear Algebra
 * **AI** - Artificial Intelligence
+* **ANC** - Advanced Nonlinear Control
 * **CA** - Computer Architecture
 * **CI** - Computational Intelligence
 * **CS** - Cybersecurity
@@ -339,52 +356,4 @@
 
 * Contact us in the [maintainers' chat](https://t.me/+zS_RREMuRMUzMDQy)
 
-### lvl 0. Share materials
-
-* Basic process
-
-    * Select a technical course. Other courses are also OK, but they can usually be studied "online" during a semester.
-    * Ask course instructors for permission to share their materials unless the instructors have left the university or it is opensourced.
-    * Send your file(s) to [maintainers](#want-to-help).
-        * Send a folder as a `.zip` (`.tar`, `.7z`, etc.) archive (see sample structure [here](https://drive.google.com/drive/folders/1EO_7EBNVICSLRz3lw-PCUOMMla7f7nQA?usp=sharing)). 
-        * Send a single file as-is.
-        * A repository (or a playlist) can be shared as a link ([example](https://github.com/ParfenovIgor/F21-Programming-Paradigms-Y-3)).
-        * We'll create a new playlist for your videos and let you upload them
-    * If you'd like, tell maintainers, and we will add your name to this `README.md` file. People should know their heroes!
-        * We'll place your username on this page near the course you select if you've contributed several of them.
-    * Keep contributing as much as possible allowed materials for more courses!
-
-* Types of materials
-    
-    * Slides
-    * Video records (e.g., with your camera during a lecture or your own tutorials)
-    * Assignment / HW / Exam / Test problems and solutions
-    * Cheatsheets
-    * Your notes
-
-
-### lvl 1. Become a Notes maintainer
-
-#### Minimal duties
-
-* Collect and share with maintainers 1+ allowed not yet shared course materials (as many types as possible).
-* Preferably math-related
-
-#### Maximal duties
-
-* All minimal duties +
-* Stay in the maintainers' chat and ping maintainers on new materials if they're not uploaded asap
-* Tell (younger Bach) students about Notes and encourage them to contribute
-* Collect materials from your course and younger
-* Find 1+ maintainers from fresher Bach before your 4th year
-* Upload new files to Notes' GDrive
-* Share your nice academic works with others and study well
-* etc.
-
-#### Your reward
-
-* You'll become a member of `Inno-Notes` organization, so students can easily find your GitHub and follow!
-* Again, your GitHub username will be on this page near one of the courses you've contributed.
-* After you have completed your minimal duties, contact [maintainers](#want-to-help) and tell your github username.
-* We'll check your contribution history and decide.
-* Don't forget to accept an invitation on GitHub and change [organization visibility](https://github.com/orgs/Inno-Notes/people) to Public after you become a contributor!
+* We'd love to see new materials from you! [Read](./share.md#sharing-rules) how to appropriately share them
