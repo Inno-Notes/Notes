@@ -41,6 +41,11 @@
 
 ## BS20
 * S22
+    
+    * <details> <summary> CT </summary>
+        
+        * [Playlist](https://www.youtube.com/playlist?list=PLlxR_sEKjSpQ2pmaZeut4ePfMtK_26UPh)
+    </details>
 
     * <details> <summary> PS </summary>
         
