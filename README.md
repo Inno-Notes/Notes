@@ -2,7 +2,7 @@
 
 [Contact us](#want-to-help)
 
-[Join our private Telegram channel](https://t.me/+Up2u4_lCIullNTQy) to watch alternative (@) [playlists](./playlists.md)!
+## [Join our private Telegram channel](https://t.me/+Up2u4_lCIullNTQy) to watch alternative (@) [playlists](./playlists.md)!
 
 ## BS21
 
