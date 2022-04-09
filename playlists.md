@@ -10,6 +10,8 @@
 
 [YT](https://youtube.com/playlist?list=PLtFS7FHavVl8l4q7Z_ja2ajzr4pRGGvYZ)
 
+<!-- TODO -->
+
 ## BS20
 
 ### S22
@@ -17,17 +19,22 @@
 ### CT
 
 [YT](https://youtube.com/playlist?list=PLlxR_sEKjSpQ2pmaZeut4ePfMtK_26UPh)
-[Lecture 1; Introduction, State-Space](https://t.me/c/1789230036/238)
-[Tutorial 1; Part 1](https://t.me/c/1789230036/245)
-[Lecture 2; Stability, Eigenvalue analysis](https://t.me/c/1789230036/239)
-[Tutorial 2](https://t.me/c/1789230036/246)
-[Lecture 3; Laplace, Transfer function](https://t.me/c/1789230036/240)
-[Tutorial 3](https://t.me/c/1789230036/247)
-[Lecture 4; Bode plot, margins](https://t.me/c/1789230036/241)
-[Tutorial 4](https://t.me/c/1789230036/248)
-[Lecture 5; Stabilizing Control](https://t.me/c/1789230036/242)
-[Lecture 6; Discrete Systems](https://t.me/c/1789230036/243)
-[Lecture 7; Lyapunov Equation](https://t.me/c/1789230036/244)
+
+<details> <summary> @ </summary>
+
+- [Lecture 1; Introduction, State-Space](https://t.me/c/1789230036/238)
+- [Tutorial 1; Part 1](https://t.me/c/1789230036/245)
+- [Lecture 2; Stability, Eigenvalue analysis](https://t.me/c/1789230036/239)
+- [Tutorial 2](https://t.me/c/1789230036/246)
+- [Lecture 3; Laplace, Transfer function](https://t.me/c/1789230036/240)
+- [Tutorial 3](https://t.me/c/1789230036/247)
+- [Lecture 4; Bode plot, margins](https://t.me/c/1789230036/241)
+- [Tutorial 4](https://t.me/c/1789230036/248)
+- [Lecture 5; Stabilizing Control](https://t.me/c/1789230036/242)
+- [Lecture 6; Discrete Systems](https://t.me/c/1789230036/243)
+- [Lecture 7; Lyapunov Equation](https://t.me/c/1789230036/244)
+</details>
+
 
 ### F20
 
@@ -35,33 +42,39 @@
 
 [YT](https://youtube.com/playlist?list=PLUI4rqPAsSEbzrpqphMWQ06p70RtXRDwR)
 
-[Dautov's Lab \_ Week 1 - B20-03](https://t.me/c/1789230036/249)
-[Dautov's Lab \_ Week 1 - B20-04](https://t.me/c/1789230036/250)
-[Dautov's Lab \_ Week 2 - B20-03](https://t.me/c/1789230036/251)
-[Dautov's Lab \_ Week 2 - B20-04](https://t.me/c/1789230036/252)
-[Dautov's Lab \_ Week 3 - B20-03](https://t.me/c/1789230036/253)
-[Dautov \_ Remarks on the Week 3 Lab](https://t.me/c/1789230036/254)
-[Dautov's Lab \_ Week 4 - B20-03](https://t.me/c/1789230036/255)
-[Dautov's Lab \_ Week 4 - B20-04](https://t.me/c/1789230036/256)
-[Dautov's Lab \_ Week 5 - B20-03](https://t.me/c/1789230036/257)
-[Dautov's Lab \_ Week 5 - B20-04](https://t.me/c/1789230036/258)
-[Dautov's Lab \_ Week 6 - B20-03](https://t.me/c/1789230036/259)
-[Dautov's Lab \_ Week 6 - B20-04](https://t.me/c/1789230036/260)
-[Dautov's Lab \_ Week 7 - B20-03](https://t.me/c/1789230036/261)
-[Dautov's Lab \_ Week 7 - B20-04](https://t.me/c/1789230036/262)
-[Dautov's Lab \_ Week 9 - 16_00](https://t.me/c/1789230036/263)
-[Dautov's Lab \_ Week 9 - 17_40](https://t.me/c/1789230036/264)
-[Dautov's Lab \_ Week 10 - 16_00](https://t.me/c/1789230036/265)
-[Dautov's Lab \_ Week 10 - 17_40](https://t.me/c/1789230036/266)
-[Dautov's Lab \_ Week 11 - 16_00](https://t.me/c/1789230036/267)
-[Dautov's Lab \_ Week 11 - 17_40](https://t.me/c/1789230036/268)
-[Dautov's Lab \_ Week 12 - 16_00](https://t.me/c/1789230036/269)
-[Dautov's Lab \_ Week 12 - 17_40](https://t.me/c/1789230036/270)
-[Dautov's Lab \_ Week 13 - 16_00](https://t.me/c/1789230036/271)
-[Dautov's Lab \_ Week 13 - 17_40](https://t.me/c/1789230036/272)
-[Dautov's Lab \_ Week 14 - 16_00](https://t.me/c/1789230036/273)
-[Dautov's Lab \_ Week 14 - 17_40](https://t.me/c/1789230036/274)
-[How to find all values of parameter 𝛼 such that the integral converge](https://t.me/c/1789230036/275)
+<details> <summary> @ </summary>
+
+Dautov's labs
+
+- [Week 1 - B20-03](https://t.me/c/1789230036/249)
+- [Week 1 - B20-04](https://t.me/c/1789230036/250)
+- [Week 2 - B20-03](https://t.me/c/1789230036/251)
+- [Week 2 - B20-04](https://t.me/c/1789230036/252)
+- [Week 3 - B20-03](https://t.me/c/1789230036/253)
+- [Remarks on the Week 3 Lab](https://t.me/c/1789230036/254)
+- [Week 4 - B20-03](https://t.me/c/1789230036/255)
+- [Week 4 - B20-04](https://t.me/c/1789230036/256)
+- [Week 5 - B20-03](https://t.me/c/1789230036/257)
+- [Week 5 - B20-04](https://t.me/c/1789230036/258)
+- [Week 6 - B20-03](https://t.me/c/1789230036/259)
+- [Week 6 - B20-04](https://t.me/c/1789230036/260)
+- [Week 7 - B20-03](https://t.me/c/1789230036/261)
+- [Week 7 - B20-04](https://t.me/c/1789230036/262)
+- [Week 9 - 16_00](https://t.me/c/1789230036/263)
+- [Week 9 - 17_40](https://t.me/c/1789230036/264)
+- [Week 10 - 16_00](https://t.me/c/1789230036/265)
+- [Week 10 - 17_40](https://t.me/c/1789230036/266)
+- [Week 11 - 16_00](https://t.me/c/1789230036/267)
+- [Week 11 - 17_40](https://t.me/c/1789230036/268)
+- [Week 12 - 16_00](https://t.me/c/1789230036/269)
+- [Week 12 - 17_40](https://t.me/c/1789230036/270)
+- [Week 13 - 16_00](https://t.me/c/1789230036/271)
+- [Week 13 - 17_40](https://t.me/c/1789230036/272)
+- [Week 14 - 16_00](https://t.me/c/1789230036/273)
+- [Week 14 - 17_40](https://t.me/c/1789230036/274)
+- [How to find all values of parameter 𝛼 such that the integral converges](https://t.me/c/1789230036/275)
+
+</details>
 
 #### EAGLA I
 
@@ -88,28 +101,30 @@
 
 #### MA I
 
-[YT](https://youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv)
-[Lab 1.1 ](https://t.me/c/1789230036/276)
-[Lab 1.2 ](https://t.me/c/1789230036/277)
-[Lab 2 ](https://t.me/c/1789230036/278)
-[Lab 3 ](https://t.me/c/1789230036/279)
-[Lab 4 ](https://t.me/c/1789230036/280)
-[Lab 5 ](https://t.me/c/1789230036/281)
-[Lab 6 ](https://t.me/c/1789230036/282)
-[Lab 7 ](https://t.me/c/1789230036/283)
-[Lab 8](https://t.me/c/1789230036/284)
-[Lecture 1](https://t.me/c/1789230036/285)
-[Lecture 2](https://t.me/c/1789230036/286)
-[Lecture 3](https://t.me/c/1789230036/287)
-[Lecture 4](https://t.me/c/1789230036/288)
-[Lecture 5](https://t.me/c/1789230036/289)
-[Lecture 6](https://t.me/c/1789230036/290)
-[Lecture 7](https://t.me/c/1789230036/291)
-[Lecture 8](https://t.me/c/1789230036/292)
-[Lecture 9](https://t.me/c/1789230036/293)
-[Lecture 10](https://t.me/c/1789230036/294)
-[Lecture 11](https://t.me/c/1789230036/295)
-[Lecture 12](https://t.me/c/1789230036/296)
+[YT](https://youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv) <details> <summary> @ </summary>
+
+- [Lab 1.1 ](https://t.me/c/1789230036/276)
+- [Lab 1.2 ](https://t.me/c/1789230036/277)
+- [Lab 2 ](https://t.me/c/1789230036/278)
+- [Lab 3 ](https://t.me/c/1789230036/279)
+- [Lab 4 ](https://t.me/c/1789230036/280)
+- [Lab 5 ](https://t.me/c/1789230036/281)
+- [Lab 6 ](https://t.me/c/1789230036/282)
+- [Lab 7 ](https://t.me/c/1789230036/283)
+- [Lab 8](https://t.me/c/1789230036/284)
+- [Lecture 1](https://t.me/c/1789230036/285)
+- [Lecture 2](https://t.me/c/1789230036/286)
+- [Lecture 3](https://t.me/c/1789230036/287)
+- [Lecture 4](https://t.me/c/1789230036/288)
+- [Lecture 5](https://t.me/c/1789230036/289)
+- [Lecture 6](https://t.me/c/1789230036/290)
+- [Lecture 7](https://t.me/c/1789230036/291)
+- [Lecture 8](https://t.me/c/1789230036/292)
+- [Lecture 9](https://t.me/c/1789230036/293)
+- [Lecture 10](https://t.me/c/1789230036/294)
+- [Lecture 11](https://t.me/c/1789230036/295)
+- [Lecture 12](https://t.me/c/1789230036/296)
+</details>
 
 ## MS20
 
