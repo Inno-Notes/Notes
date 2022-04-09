@@ -303,6 +303,8 @@ TODO
 
 #### DE
 
+##### Lectures
+
 [YT](https://youtube.com/playlist?list=PL-9NmFdiBDkSQ30UqrXPHUfU2EClnKk0m)
 
 <details> <summary> @ </summary>
@@ -322,6 +324,37 @@ TODO
 - [Week 13, Lecture](https://t.me/c/1789230036/139)
 - [Week 14, Colloquium for volunteers](https://t.me/c/1789230036/140)
 </details>
+
+##### Tutorials
+
+[YT](https://youtube.com/playlist?list=PL-9NmFdiBDkSQ30UqrXPHUfU2EClnKk0m)
+
+<details> <summary> @ </summary>
+
+- [1. Tutorial - Organizational aspects](https://t.me/c/1789230036/298)
+- [2. Tutorial - The simplest ODE](https://t.me/c/1789230036/299)
+- [3. Tutorial - Separable equations](https://t.me/c/1789230036/300)
+- [4. Tutorial - COVID-19 pandemy model](https://t.me/c/1789230036/301)
+- [5. Tutorial - Substitutions](https://t.me/c/1789230036/302)
+- [6. Tutorial - Homogeneous Nonlinear Equations](https://t.me/c/1789230036/303)
+- [7. Linear First Order Equations](https://t.me/c/1789230036/304)
+- [8. Tutorial - Absolute Values and Arbitrary Constants](https://t.me/c/1789230036/305)
+- [9. Tutorial - Exact DE](https://t.me/c/1789230036/306)
+- [11. Tutorial - Applications](https://t.me/c/1789230036/307)
+- [12. Tutorial - Eulers method](https://t.me/c/1789230036/308)
+- [13. Tutorial - Errors of Euler method](https://t.me/c/1789230036/309)
+- [14. Computational practicum](https://t.me/c/1789230036/310)
+- [15. Computational practicum (GUI programming) in C#](https://t.me/c/1789230036/319)
+- [16. Tutotial - 2nd order constant coefficient equations](https://t.me/c/1789230036/312)
+- [17. Tutorial - 2nd order equations](https://t.me/c/1789230036/313)
+- [18. Tutorial - Laplace Transform](https://t.me/c/1789230036/314)
+- [19. Tutorial - Inverse Laplace Transform](https://t.me/c/1789230036/315)
+- [20. Tutorial - Power Series](https://t.me/c/1789230036/316)
+- [21. Tutorial - Power Series Approach](https://t.me/c/1789230036/317)
+- [22. Tutorial - Systems](https://t.me/c/1789230036/318)
+
+</details>
+
 
 #### Phy I
 
