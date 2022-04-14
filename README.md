@@ -88,6 +88,17 @@
 
 ## BS19
 * S22
+
+    * <details> <summary> ANC (Elective) </summary>
+
+        * [Notes](https://www.mathcha.io/editor/pgvxnsKESNpIQ3h5drWMnSJ1vXdvtYvo8ZVfm1rw9q)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text">
+    </details>
+
+    * <details> <summary> DSP </summary>
+
+        * [Notes](https://www.mathcha.io/editor/WvWrxCPmFglsn3FKOzLmGuvM34vzH90ZyjrFJMY0VQ)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text">
+    </details>
+
     * <details> <summary> IR (Not RO-T) </summary>
 
         * [Materials](https://github.com/IUCVLab/information-retrieval)
@@ -99,11 +110,6 @@
         * You may like Autodesk Inventor with a [student license](https://www.autodesk.com/education/students).
         * We had Ansys on final exam. **8 retakers** / 15 students)
 
-    </details>
-
-    * <details> <summary> ANC (Elective) </summary>
-
-        * [Notes](https://www.mathcha.io/editor/pgvxnsKESNpIQ3h5drWMnSJ1vXdvtYvo8ZVfm1rw9q)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text">
     </details>
     
 
@@ -333,6 +339,7 @@
 * **DM** - Discrete Math
 * **DML** - Discrete Math and Logic
 * **DNP** - Distributed and Network Programming
+* **DSP** - Digital Signal Processing
 * **EAGLA** - Essential AGLA
 * **FoR** - Fundamentals of Robotics
 * **ICV** - Introduction to Computer Vision
