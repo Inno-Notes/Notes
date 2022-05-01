@@ -112,6 +112,11 @@
 
     </details>
     
+    * <details> <summary> SS (RO-T) </summary>
+
+        * CV [course](https://web.stanford.edu/class/cs231a/course_notes.html) in understandable English
+        
+    </details>
 
 * F21
 
@@ -353,6 +358,7 @@
 * **PP** - Programming Paradigms
 * **PS** - Probability & Statistics
 * **SD** - Software Development
+* **SS** - Sensors & Sensing
 * **SSAD** - Software Systems Analysis and Development
 * **TM** - Theoretical Mechanics
 * **TrackName-T** - specific to TrackName track
