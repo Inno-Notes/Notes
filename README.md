@@ -218,6 +218,7 @@
 
         * [Materials](https://drive.google.com/drive/folders/1AsRhU_FxUbyklH1D9wR5NLjcBPnf_Ld4?usp=sharing)
         * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEbWP1ov_FFfnPWZujSzF7jV)
+        * [Kalman filter](https://www.kalmanfilter.net/background.html) - where this theory can be applied (SS course)
 
 * S20
 
