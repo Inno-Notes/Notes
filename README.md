@@ -2,6 +2,8 @@
 
 [Contact us](#want-to-help)
 
+<h3>Join our <a href="https://t.me/+Up2u4_lCIullNTQy">private Telegram channel</a> with alternative (@) YouTube <a href="./playlists.md">playlists</a> </h3>
+
 ## BS21
 
 * S22
@@ -34,7 +36,7 @@
 
     * <details> <summary> CI </summary>
 
-        * [Playlist](https://youtube.com/playlist?list=PLlxR_sEKjSpQpIgRykNdcwITKqXl3Gu-K)
+        * [Playlist](https://youtube.com/playlist?list=PLlxR_sEKjSpQpIgRykNdcwITKqXl3Gu-K) / [@](./playlists.md#s21---ci)
     </details>
 
 ## BS20
@@ -42,7 +44,7 @@
     
     * <details> <summary> CT </summary>
         
-        * [Playlist](https://www.youtube.com/playlist?list=PLlxR_sEKjSpQ2pmaZeut4ePfMtK_26UPh)
+        * [Playlist](https://www.youtube.com/playlist?list=PLlxR_sEKjSpQ2pmaZeut4ePfMtK_26UPh) / [@](./playlists.md#ct)
     </details>
 
     * <details> <summary> PS </summary>
@@ -69,19 +71,19 @@
     * <details> <summary> Calculus I ( <a href="https://github.com/RamilDautov"> RamilDautov </a>) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1dY7DyV1RA9Fsk4RrFUzYEbxIgd1tpwbx?usp=sharing)
-        * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEbzrpqphMWQ06p70RtXRDwR)
+        * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEbzrpqphMWQ06p70RtXRDwR) / [@](./playlists.md#f20---calculus-i)
     </details>
 
     * <details> <summary> EAGLA </summary>
 
-        * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl-VXiod2y_fZTAVClyEXB-0) / [@](./playlists.md#eagla-1)
+        * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl-VXiod2y_fZTAVClyEXB-0) / [@](./playlists.md#f20---eagla-i)
 
     </details>
 
     * <details> <summary> MA I ( <a href="https://github.com/Maruf-co"> Maruf-co </a>) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1mcCxkTXMLXvJQyKQhDyTsV3u95lbFLCf?usp=sharing)
-        * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv)
+        * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv) / [@](./playlists.md#f20---ma-i)
      </details>
 
 ## BS19
@@ -132,15 +134,15 @@
     * <details> <summary> Mechatronics (RO-T) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1kCXXRrFo42oLzol7IgS1lzIbvblL9N-x?usp=sharing)
-        * [Playlist](https://youtube.com/playlist?list=PLNh4MTycRwFB3b_Bd6XZIUu8RXOm3GXBW)
+        * [Playlist](https://youtube.com/playlist?list=PLNh4MTycRwFB3b_Bd6XZIUu8RXOm3GXBW) / [@](./playlists.md#f21---mech)
     </details>
 
     * <details> <summary> ML </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1E6JHoA1fTWveVDAx27Q4qoedlZHA_Ump?usp=sharing)
         * Professor Khan highly recommended lab attendance
-        * [Playlist](https://youtube.com/playlist?list=PLJHon32ieRbI8rwg3K9mdUfiBfSaeFreb) Best practices in Training Neural Networks
-        * [Playlist](https://youtube.com/playlist?list=PLDtVwbUDS3WnlwDgpHnPVUvwDrjHNkRVh) Lectures
+        * [Playlist](https://youtube.com/playlist?list=PLJHon32ieRbI8rwg3K9mdUfiBfSaeFreb) Best practices in Training Neural Networks / [@](./playlists.md#f21---ml-best-practices)
+        * [Playlist](https://youtube.com/playlist?list=PLDtVwbUDS3WnlwDgpHnPVUvwDrjHNkRVh) Lectures / [@](./playlists.md#f21---ml-lectures)
     </details>
 
     * <details> <summary> Philosophy ( <a href="https://github.com/implausibleDenyability")> implausibleDenyability </a>) </summary>
@@ -150,7 +152,7 @@
 
     * <details> <summary> PP (AI-T, SD-T, CS-T) </summary>
         
-        * [Playlist](https://youtube.com/playlist?list=PLov3NSwpY86eMWcSLVDi071ertPAA22Dr)
+        * [Playlist](https://youtube.com/playlist?list=PLov3NSwpY86eMWcSLVDi071ertPAA22Dr) / [@](./playlists.md#f21---pp)
         * [Materials](https://github.com/ParfenovIgor/F21-Programming-Paradigms-Y-3)
         * [Labs and Assignments](https://github.com/SMore-Napi/PP_Innopolis)
         * [Haskell for Imperative Programmers](https://youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
@@ -161,7 +163,7 @@
 
     * <details> <summary> SSAD </summary>
 
-        * [Playlist](https://youtube.com/playlist?list=PLaIsQH4uc08woJKRAA7mmjs9fU0jeKjjM)
+        * [Playlist](https://youtube.com/playlist?list=PLaIsQH4uc08woJKRAA7mmjs9fU0jeKjjM) / [@](./playlists.md#f21---ssad)
         * [Materials](https://drive.google.com/drive/folders/1kqhm1EKLcxxMUERUn7BhRtaV4yEWdp86?usp=sharing)
         * [Repo](https://github.com/yegor256/ssd16)
     </details>
@@ -183,14 +185,14 @@
 
         * [Materials](https://drive.google.com/drive/folders/1fkxnvpBowT61iej6w15-3OeI_RPukGSE?usp=sharing)
         * [Repo](https://github.com/SergeiSa/Control-Theory-Slides-Spring-2021)
-        * [Playlist](https://youtube.com/watch?v=x2cYtqJR-qg&list=PLlxR_sEKjSpTyteBJYJR6WBuAlPineEwz)
+        * [Playlist](https://youtube.com/watch?v=x2cYtqJR-qg&list=PLlxR_sEKjSpTyteBJYJR6WBuAlPineEwz) / [@](playlists.md#f21---ct)
         
     </details>
 
     * <details> <summary> DB </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1uiA06foyWJMMO7bjBMg4ER1OOOQz0dwD?usp=sharing)
-        * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4ParNWZqsxD-j6MzP9nf7pV7t)
+        * [Playlist](https://youtube.com/playlist?list=PLB6s35Ya4ParNWZqsxD-j6MzP9nf7pV7t) / [@](playlists.md#f21---db)
     </details>
 
     * <details> <summary> Physics II - Electrical Engineering </summary>
@@ -203,19 +205,20 @@
     * <details> <summary> DE ( <a href="https://github.com/ParfenovIgor" )> ParfenovIgor </a>) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1eRpXYHxxzr3VnzggUzAnNlFxEZzPhU8-?usp=sharing)
-        * [Playlist](https://youtube.com/playlist?list=PL-9NmFdiBDkSQ30UqrXPHUfU2EClnKk0m)
+        * [Playlist](https://youtube.com/playlist?list=PL-9NmFdiBDkSQ30UqrXPHUfU2EClnKk0m) Lectures / [@](./playlists.md#f20---de---lectures)
+        * [@](./playlists.md#f20---de---tutorials) Tutorials
     </details>
 
     * <details> <summary> Physics I - Mechanics ( <a href="https://github.com/vBazilevich")> vBazilevich </a>) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1944F88l5Q4IASBIfb9EjeJSst68QBkkY?usp=sharing)
-        * [Playlist](https://youtube.com/playlist?list=PLNh4MTycRwFC3nc0sv_0--T7OuLHxMkMK)
+        * [Playlist](https://youtube.com/playlist?list=PLNh4MTycRwFC3nc0sv_0--T7OuLHxMkMK) / [@](./playlists.md#f20---phy-i)
     </details>
 
     * <details> <summary> PS ( <a href="https://github.com/br4ch1st0chr0n3")> br4ch1st0chr0n3 </a>) </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1AsRhU_FxUbyklH1D9wR5NLjcBPnf_Ld4?usp=sharing)
-        * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEbWP1ov_FFfnPWZujSzF7jV)
+        * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEbWP1ov_FFfnPWZujSzF7jV) / [@](./playlists.md#f20---ps)
         * [Kalman filter](https://www.kalmanfilter.net/background.html) - where this theory can be applied (SS course)
 
 * S20
@@ -232,7 +235,7 @@
     * <details> <summary> MA II </summary>
 
         * [Materials](https://drive.google.com/drive/folders/1lnqasIlQeh6MqU_ZFAeM-iMY_Ays3lZn?usp=sharing)
-        * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEag1Wc9ohTtmZkovLuZMAEG)
+        * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEag1Wc9ohTtmZkovLuZMAEG) / [@](./playlists.md#s20---ma-ii)
 
 * F19
     * <details> <summary> AGLA I </summary>
@@ -294,7 +297,7 @@
 
     * <details> <summary> TM (RO-T) ( <a href="https://github.com/Lupasic"> Lupasic </a>) </summary>
 
-        * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K) Labs
+        * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K) Labs / [@](./playlists.md#f20---tm)
         * [Materials](https://github.com/hany606/TM_Fall20IU)
 
 * F19-S20+
@@ -368,8 +371,6 @@
 * [Mathcha](https://www.mathcha.io/)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha"> - free online [WYSIWYG](https://www.mathcha.io/documentation/) *Math* editor
 
 * [Random](./Random.md)
-
-* We also made a backup of  most of the Youtube playlists in Telegram. [Join our private Telegram channel](https://t.me/+Up2u4_lCIullNTQy) to watch these alternative (@) [playlists](./playlists.md)
 
 
 ## Want to Help?

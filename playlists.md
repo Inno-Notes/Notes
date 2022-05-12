@@ -36,9 +36,29 @@
 </details>
 
 
+### F21
+
+#### F21-PS
+
+TODO
+
+<!-- [YT](https://youtube.com/playlist?list=PLDtVwbUDS3Wlj5KY-HO0nM-BJixae64bX) -->
+
+
+
+### S21
+
+#### S21 - MA II
+
+TODO
+
+<!-- [YT](https://youtube.com/playlist?list=PLB6s35Ya4Pap_gvxY2TTxZmyZ6VluPGgQ) -->
+
+
+
 ### F20
 
-#### Calculus I
+#### F20 - Calculus I
 
 [YT](https://youtube.com/playlist?list=PLUI4rqPAsSEbzrpqphMWQ06p70RtXRDwR)
 
@@ -76,7 +96,7 @@ Dautov's labs
 
 </details>
 
-#### EAGLA I
+#### F20 - EAGLA I
 
 [YT](https://youtube.com/playlist?list=PLtFS7FHavVl-VXiod2y_fZTAVClyEXB-0)
 
@@ -99,7 +119,7 @@ Dautov's labs
 - [lab 10, group 4](https://t.me/c/1789230036/19)
 </details>
 
-#### MA I
+#### F20 - MA I
 
 [YT](https://youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv) <details> <summary> @ </summary>
 
@@ -130,7 +150,7 @@ Dautov's labs
 
 ### S21
 
-#### CI
+#### S21 - CI
 
 [YT](https://youtube.com/playlist?list=PLlxR_sEKjSpQpIgRykNdcwITKqXl3Gu-K)
 
@@ -154,7 +174,7 @@ Dautov's labs
 
 ### F21
 
-#### Mech
+#### F21 - Mech
 
 [YT](https://youtube.com/playlist?list=PLNh4MTycRwFB3b_Bd6XZIUu8RXOm3GXBW)
 
@@ -167,7 +187,7 @@ Dautov's labs
 
 </details>
 
-#### ML Best practices
+#### F21 - ML Best practices
 
 [YT](https://youtube.com/playlist?list=PLJHon32ieRbI8rwg3K9mdUfiBfSaeFreb)
 
@@ -184,7 +204,7 @@ Dautov's labs
 - [9. Pretrained Layers and Modules](https://t.me/c/1789230036/216)
 </details>
 
-#### ML Lectures
+#### F21 - ML Lectures
 
 [YT](https://youtube.com/playlist?list=PLDtVwbUDS3WnlwDgpHnPVUvwDrjHNkRVh)
 
@@ -200,7 +220,7 @@ Dautov's labs
 - [Lecture 13, GANs](https://t.me/c/1789230036/206)
 </details>
 
-#### PP
+#### F21 - PP
 
 [YT](https://youtube.com/playlist?list=PLov3NSwpY86eMWcSLVDi071ertPAA22Dr)
 
@@ -223,7 +243,7 @@ Dautov's labs
 - [Solutions to pre final exam questions](https://t.me/c/1789230036/197)
 </details>
 
-#### SSAD
+#### F21 - SSAD
 
 [YT](https://youtube.com/playlist?list=PLaIsQH4uc08woJKRAA7mmjs9fU0jeKjjM)
 
@@ -247,6 +267,13 @@ Dautov's labs
 - [Lecture 16, Future of Software Design](https://t.me/c/1789230036/181)
 </details>
 
+#### TM
+
+TODO
+
+<!-- [YT](https://www.youtube.com/playlist?list=PLtFS7FHavVl_DAnHFNvqVZMaEPHdYuhH6) -->
+
+
 ### S21
 
 #### AI
@@ -260,7 +287,7 @@ TODO
 #BS19, #S21, #AI, Lecture 5
 #BS19, #S21, #AI, Lecture 6
 
-#### CT
+#### F21 - CT
 
 [YT](https://youtube.com/watch?v=x2cYtqJR-qg&list=PLlxR_sEKjSpTyteBJYJR6WBuAlPineEwz)
 
@@ -280,7 +307,7 @@ TODO
 - [Lecture 14, SRD](https://t.me/c/1789230036/164)
 </details>
 
-#### DB
+#### F21 - DB
 
 [YT](https://youtube.com/playlist?list=PLB6s35Ya4ParNWZqsxD-j6MzP9nf7pV7t)
 
@@ -303,7 +330,7 @@ TODO
 
 #### DE
 
-##### Lectures
+##### F20 - DE - Lectures
 
 [YT](https://youtube.com/playlist?list=PL-9NmFdiBDkSQ30UqrXPHUfU2EClnKk0m)
 
@@ -325,7 +352,7 @@ TODO
 - [Week 14, Colloquium for volunteers](https://t.me/c/1789230036/140)
 </details>
 
-##### Tutorials
+##### F20 - DE - Tutorials
 
 [YT](https://youtube.com/playlist?list=PL-9NmFdiBDkSQ30UqrXPHUfU2EClnKk0m)
 
@@ -356,7 +383,7 @@ TODO
 </details>
 
 
-#### Phy I
+#### F20 - Phy I
 
 [YT](https://youtube.com/playlist?list=PLNh4MTycRwFC3nc0sv_0--T7OuLHxMkMK)
 
@@ -399,7 +426,7 @@ TODO
 
 </details>
 
-#### PS
+#### F20 - PS
 
 [YT](https://youtube.com/playlist?list=PLUI4rqPAsSEbWP1ov_FFfnPWZujSzF7jV)
 
@@ -449,7 +476,7 @@ TODO
 
 ### S20
 
-#### MA II
+#### S20 - MA II
 
 [YT](https://youtube.com/playlist?list=PLUI4rqPAsSEag1Wc9ohTtmZkovLuZMAEG)
 
@@ -476,7 +503,7 @@ TODO
 
 ### F20
 
-#### TM
+#### F20 - TM
 
 [YT](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K)
 
