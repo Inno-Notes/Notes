@@ -16,7 +16,7 @@
 
 ### S22
 
-### CT
+### S22 - CT
 
 [YT](https://youtube.com/playlist?list=PLlxR_sEKjSpQ2pmaZeut4ePfMtK_26UPh)
 
@@ -35,10 +35,18 @@
 - [Lecture 7; Lyapunov Equation](https://t.me/c/1789230036/244)
 </details>
 
+### S22 - PS
+
+TODO
+
+<!-- [YT](https://youtube.com/playlist?list=PLlxR_sEKjSpQ2pmaZeut4ePfMtK_26UPh) -->
+
+
+
 
 ### F21
 
-#### F21-PS
+#### F21 - PS
 
 TODO
 

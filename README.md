@@ -2,7 +2,7 @@
 
 [Contact us](#want-to-help)
 
-<h3>Join our <a href="https://t.me/+Up2u4_lCIullNTQy">private Telegram channel</a> with alternative (@) YouTube <a href="./playlists.md">playlists</a> </h3>
+<h3>Join our private <a href="https://t.me/+Up2u4_lCIullNTQy">Telegram channel</a> with alternative (@) <a href="./playlists.md">playlists</a> </h3>
 
 ## BS21
 
@@ -44,7 +44,7 @@
     
     * <details> <summary> CT </summary>
         
-        * [Playlist](https://www.youtube.com/playlist?list=PLlxR_sEKjSpQ2pmaZeut4ePfMtK_26UPh) / [@](./playlists.md#ct)
+        * [Playlist](https://www.youtube.com/playlist?list=PLlxR_sEKjSpQ2pmaZeut4ePfMtK_26UPh) / [@](./playlists.md#s22---ct)
     </details>
 
     * <details> <summary> PS </summary>
