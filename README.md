@@ -2,8 +2,6 @@
 
 [Contact us](#want-to-help)
 
-## [Join our private Telegram channel](https://t.me/+Up2u4_lCIullNTQy) to watch alternative (@) [playlists](./playlists.md)!
-
 ## BS21
 
 * S22
@@ -370,6 +368,9 @@
 * [Mathcha](https://www.mathcha.io/)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha"> - free online [WYSIWYG](https://www.mathcha.io/documentation/) *Math* editor
 
 * [Random](./Random.md)
+
+* We also made a backup of  most of the Youtube playlists in Telegram. [Join our private Telegram channel](https://t.me/+Up2u4_lCIullNTQy) to watch these alternative (@) [playlists](./playlists.md)
+
 
 ## Want to Help?
 
