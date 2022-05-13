@@ -370,8 +370,9 @@
 
 * [Mathcha](https://www.mathcha.io/)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="Mathcha"> - free online [WYSIWYG](https://www.mathcha.io/documentation/) *Math* editor
 
-* [Random](./Random.md)
+* [TeXmacs](https://www.texmacs.org/tmweb/home/welcome.en.html) - WYSIWYG **Math** editor. Offline, unlike Mathcha, but with much more capabilities and better compatibility with LaTeX. BTW, docs can be converted to HTML and published online on GitHub Pages, e.g., while page sources are stored in a repo.
 
+* [Random](./Random.md)
 
 ## Want to Help?
 
