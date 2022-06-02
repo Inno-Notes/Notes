@@ -148,6 +148,7 @@
     * <details> <summary> Philosophy ( <a href="https://github.com/implausibleDenyability")> implausibleDenyability </a>) </summary>
 
         * [Notes](https://orchid-creature-596.notion.site/Philosophy-cbd3fcb9b2984d3b93a6af48aef7f797)
+        * [Presentations](https://docs.google.com/spreadsheets/d/1wriKyCsxD6wyCVHkcdR95yQheSQeU7Xbqx7bO1P0bdI/edit?usp=sharing)
     </details>
 
     * <details> <summary> PP (AI-T, SD-T, CS-T) </summary>
@@ -256,7 +257,6 @@
     * <details> <summary> PL </summary>
 
         * [Materials](https://drive.google.com/drive/folders/15obxaQVzCoCPdgL8a0Ox0Mvq_9oslLf6?usp=sharing)
-        * [Presentations](https://docs.google.com/spreadsheets/d/1wriKyCsxD6wyCVHkcdR95yQheSQeU7Xbqx7bO1P0bdI/edit?usp=sharing)
     </details>
 
     * <details> <summary> Text and pictures ( <a href="https://github.com/Delviet"> Delviet</a>, <a href="https://github.com/seytkalievm">seytkalievm</a> ) </summary>
