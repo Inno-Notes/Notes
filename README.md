@@ -306,6 +306,14 @@
         * [Playlist](https://youtube.com/playlist?list=PLtFS7FHavVl8QCCHHN75k1RuBV8Ch7l5K) Labs / [@](./playlists.md#f20---tm)
         * [Materials](https://github.com/hany606/TM_Fall20IU)
 
+* S20
+
+    * <details> <summary> Programming in Haskell </summary>
+
+        * [Materials](https://moodle.innopolis.university/course/view.php?id=409)
+            * Password: `theorems-for-free`
+    </details>
+
 * F19-S20+
 
     * [Meta-repo](https://github.com/hany606/University-Courses-Repositories)
