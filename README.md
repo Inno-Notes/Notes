@@ -91,7 +91,7 @@
 
     * <details> <summary> ACCPA </summary>
 
-        * [Course](https://moodle.innopolis.university/course/view.php?id=948)
+        * [Materials](https://moodle.innopolis.university/course/view.php?id=948)
             * Password: `theorems-for-free`
     </details>
 
