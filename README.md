@@ -89,6 +89,12 @@
 ## BS19
 * S22
 
+    * <details> <summary> ACCPA </summary>
+
+        * [Course](https://moodle.innopolis.university/course/view.php?id=948)
+            * Password: `theorems-for-free`
+    </details>
+
     * <details> <summary> ANC (Elective) </summary>
 
         * [Notes](https://www.mathcha.io/editor/pgvxnsKESNpIQ3h5drWMnSJ1vXdvtYvo8ZVfm1rw9q)<img src="https://cdn.mathcha.io/resources/logo.png" width="20" title="hover text">
@@ -334,6 +340,7 @@
 
 ## Abbreviations
 
+* **ACCPA** - Advanced Compilers Construction and Program Analysis
 * **AGLA** - Analytical Geometry & Linear Algebra
 * **AI** - Artificial Intelligence
 * **ANC** - Advanced Nonlinear Control
