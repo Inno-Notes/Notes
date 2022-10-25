@@ -43,7 +43,7 @@
 * F22
     * <details> <summary> TM </summary>
          
-         * [Materials](https://github.com/hany606/TM_Fall20IU)
+         * [Materials](https://github.com/lvjonok/f22-theoretical-mechanics)
 
 * S22
     
