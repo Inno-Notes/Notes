@@ -43,14 +43,14 @@
 
 * F22
 
-  * <details> <summary> DNP ( <a href="http://github.com/teexone"> teexone </a> ) </summary>
+  * <details> <summary> DNP ( <a href="https://github.com/ElizaSmv"> ElizaSmv </a> ) </summary>
   
     * [Notes](https://alobanov.notion.site/Distributed-Network-Programming-a5bd0b2ce5f942a794953f88433e539f)
     </details>
 
 * S22
 
-  * <details> <summary> CN </summary>
+  * <details> <summary> CN ( <a href="http://github.com/teexone"> teexone </a> ) </summary>
 
     * [Notes](https://alobanov.notion.site/Ross-Notes-c816200d21f54e119fba2ed53a3da5f6)
     </details>
