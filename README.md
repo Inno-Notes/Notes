@@ -50,6 +50,11 @@
 
 * S22
 
+  * <details> <summary> CN </summary>
+
+    * [Notes](https://alobanov.notion.site/Ross-Notes-c816200d21f54e119fba2ed53a3da5f6)
+    </details>
+
   * <details> <summary> CT </summary>
 
     * [Playlist](https://www.youtube.com/playlist?list=PLlxR_sEKjSpQ2pmaZeut4ePfMtK_26UPh) / [@](./playlists.md#s22---ct)
@@ -359,6 +364,7 @@
 * **ANC** - Advanced Nonlinear Control
 * **CA** - Computer Architecture
 * **CI** - Computational Intelligence
+* **CN** - Computer Networks
 * **CS** - Cybersecurity
 * **CT** - Control Theory
 * **DB** - Databases
