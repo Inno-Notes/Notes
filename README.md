@@ -147,7 +147,7 @@
 
   * <details> <summary> FoR (RO-T) ( <a href="https://github.com/mirnanoukari"> mirnanoukari </a>) </summary>
 
-    * [Materials](https://github.com/br4ch1st0chr0n3/F21FoR)
+    * [Materials](https://github.com/deemp/F21FoR)
     * [Assignments](https://github.com/mirnanoukari/FoR). Check Lab slides to install and run ROS lab
     </details>
 
@@ -236,7 +236,7 @@
     * [Playlist](https://youtube.com/playlist?list=PLNh4MTycRwFC3nc0sv_0--T7OuLHxMkMK) / [@](./playlists.md#f20---phy-i)
     </details>
 
-  * <details> <summary> PS ( <a href="https://github.com/br4ch1st0chr0n3")> br4ch1st0chr0n3 </a>) </summary>
+  * <details> <summary> PS ( <a href="https://github.com/deemp")> deemp </a>) </summary>
 
     * [Materials](https://drive.google.com/drive/folders/1AsRhU_FxUbyklH1D9wR5NLjcBPnf_Ld4?usp=sharing)
     * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEbWP1ov_FFfnPWZujSzF7jV) / [@](./playlists.md#f20---ps)
