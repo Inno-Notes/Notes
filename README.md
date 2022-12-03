@@ -41,6 +41,13 @@
 
 ## BS20
 
+* F22
+
+  * <details> <summary> DNP ( <a href="http://github.com/teexone"> teexone </a> ) </summary>
+  
+    * [Notes](https://alobanov.notion.site/Distributed-Network-Programming-a5bd0b2ce5f942a794953f88433e539f)
+    </details>
+
 * S22
 
   * <details> <summary> CT </summary>
