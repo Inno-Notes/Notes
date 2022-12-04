@@ -167,7 +167,7 @@
 
   * <details> <summary> Philosophy ( <a href="https://github.com/implausibleDenyability")> implausibleDenyability </a>) </summary>
 
-    * [Notes](https://orchid-creature-596.notion.site/Philosophy-cbd3fcb9b2984d3b93a6af48aef7f797)
+    * [Notes](https://implausible-deniability.notion.site/Philosophy-cbd3fcb9b2984d3b93a6af48aef7f797)
     * [Presentations](https://docs.google.com/spreadsheets/d/1wriKyCsxD6wyCVHkcdR95yQheSQeU7Xbqx7bO1P0bdI/edit?usp=sharing)
     </details>
 
