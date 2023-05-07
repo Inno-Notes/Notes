@@ -101,6 +101,32 @@
 
 ## BS19
 
+* F22
+  
+  * <details> <summary> DO </summary>
+
+    * [Labs](https://github.com/innopolis-devops/labs)
+
+      * Study `kubernetes`
+      * Study `pulumi`
+
+        * Use `TypeScript`
+        * Check your manifests by rendering them via a [provider](https://www.pulumi.com/registry/packages/kubernetes/api-docs/provider/)
+          * worked for `minikube`
+        * You can version your deploys
+
+          1. Commit
+          2. Build images
+          3. Push to Docker Hub
+          4. Pull them
+          5. Pin their digests in a file
+          6. Commit
+          7. Load digests into `.ts` and use for configuring container images
+
+    * [Labs with Nix](https://github.com/deemp/devops-labs-with-nix)
+      * Useful parts were extracted into [flakes](https://github.com/deemp/flakes)
+    </details>
+
 * S22
 
   * <details> <summary> ACCPA </summary>
@@ -372,6 +398,7 @@
 * **DM** - Discrete Math
 * **DML** - Discrete Math and Logic
 * **DNP** - Distributed and Network Programming
+* **DO** - DevOps
 * **DSP** - Digital Signal Processing
 * **EAGLA** - Essential AGLA
 * **FoR** - Fundamentals of Robotics
