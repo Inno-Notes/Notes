@@ -275,6 +275,14 @@
     * [Playlist](https://youtube.com/playlist?list=PLUI4rqPAsSEbWP1ov_FFfnPWZujSzF7jV) / [@](./playlists.md#f20---ps)
     * [Kalman filter](https://www.kalmanfilter.net/background.html) - where this theory can be applied (SS course)
 
+    </details>
+
+  * <details> <summary> OS </summary>
+
+    * [Playlist](https://youtube.com/playlist?list=PLV59FmqM2DK6qgbx0xXaQnOGAe2rPPqb7&si=m-B-SgaK6i6wTwNk)
+
+    </details>
+
 * S20
 
   * [How it began...](https://docs.google.com/spreadsheets/d/114FePEEj6Nrr9K4X5I8PyBfSbxn8VSk_O3lbiuxyC7M/edit?usp=sharing)
@@ -415,6 +423,7 @@
 * **MA** - Mathematical Analysis
 * **ML** - Machine Learning
 * **MM** - Mechanics and Machines
+* **OS** - Operating Systems
 * **PAI** - Practical AI
 * **PL** - Philosophy (Logic)
 * **PMLDL** - Practical Machine Learning and Deep Learning
