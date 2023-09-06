@@ -4,6 +4,13 @@
 
 <h3>Join our private <a href="https://t.me/+Up2u4_lCIullNTQy">Telegram channel</a> with alternative (@) <a href="./playlists.md">playlists</a> </h3>
 
+## MS23
+
+* <details> <summary> EM </summary>
+
+  * [Playlist](https://www.youtube.com/playlist?list=PLV59FmqM2DK7lOMQ3Xu7LDc24d42HK_mY) (2020)
+  </details>
+
 ## BS21
 
 * S22
@@ -401,6 +408,7 @@
 * **DO** - DevOps
 * **DSP** - Digital Signal Processing
 * **EAGLA** - Essential AGLA
+* **EM** - Empirical methods
 * **FoR** - Fundamentals of Robotics
 * **ICV** - Introduction to Computer Vision
 * **IML** - Introduction to ML
