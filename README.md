@@ -423,6 +423,7 @@
 * **MA** - Mathematical Analysis
 * **ML** - Machine Learning
 * **MM** - Mechanics and Machines
+* **MSD** - Managing Software Development
 * **OS** - Operating Systems
 * **PAI** - Practical AI
 * **PL** - Philosophy (Logic)
