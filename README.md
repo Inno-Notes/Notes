@@ -63,6 +63,11 @@
     * [Notes](https://alobanov.notion.site/Distributed-Network-Programming-a5bd0b2ce5f942a794953f88433e539f)
     </details>
 
+  * <details> <summary> TM </summary>
+         
+    * [Materials](https://github.com/lvjonok/f22-theoretical-mechanics)
+    </details>
+
 * S22
 
   * <details> <summary> CN ( <a href="http://github.com/teexone"> teexone </a> ) </summary>
