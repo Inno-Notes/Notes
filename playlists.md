@@ -1,6 +1,6 @@
 # Playlists
 
-## [Join our private Telegram channel](https://t.me/+Up2u4_lCIullNTQy) to watch them!
+## [Join our private Telegram channel](https://t.me/+Up2u4_lCIullNTQy) to watch them
 
 ## BS21
 
@@ -33,6 +33,7 @@
 - [Lecture 5; Stabilizing Control](https://t.me/c/1789230036/242)
 - [Lecture 6; Discrete Systems](https://t.me/c/1789230036/243)
 - [Lecture 7; Lyapunov Equation](https://t.me/c/1789230036/244)
+
 </details>
 
 ### S22 - PS
@@ -40,9 +41,6 @@
 TODO
 
 <!-- [YT](https://youtube.com/playlist?list=PLlxR_sEKjSpQ2pmaZeut4ePfMtK_26UPh) -->
-
-
-
 
 ### F21
 
@@ -52,8 +50,6 @@ TODO
 
 <!-- [YT](https://youtube.com/playlist?list=PLDtVwbUDS3Wlj5KY-HO0nM-BJixae64bX) -->
 
-
-
 ### S21
 
 #### S21 - MA II
@@ -61,8 +57,6 @@ TODO
 TODO
 
 <!-- [YT](https://youtube.com/playlist?list=PLB6s35Ya4Pap_gvxY2TTxZmyZ6VluPGgQ) -->
-
-
 
 ### F20
 
@@ -86,7 +80,7 @@ Dautov's labs
 - [Week 5 - B20-04](https://t.me/c/1789230036/258)
 - [Week 6 - B20-03](https://t.me/c/1789230036/259)
 - [Week 6 - B20-04](https://t.me/c/1789230036/260)
-- [Week 7 - B20-03](https://t.me/c/1789230036/261)
+- [Week 7 - B20-03](https://t.me/c/1789230036/261)  
 - [Week 7 - B20-04](https://t.me/c/1789230036/262)
 - [Week 9 - 16_00](https://t.me/c/1789230036/263)
 - [Week 9 - 17_40](https://t.me/c/1789230036/264)
@@ -125,20 +119,21 @@ Dautov's labs
 - [lab 9, group 4](https://t.me/c/1789230036/17)
 - [lab 10, group 3](https://t.me/c/1789230036/18)
 - [lab 10, group 4](https://t.me/c/1789230036/19)
+
 </details>
 
 #### F20 - MA I
 
 [YT](https://youtube.com/playlist?list=PLUI4rqPAsSEa5OGnDRhGTRuznzkcAJUpv) <details> <summary> @ </summary>
 
-- [Lab 1.1 ](https://t.me/c/1789230036/276)
-- [Lab 1.2 ](https://t.me/c/1789230036/277)
-- [Lab 2 ](https://t.me/c/1789230036/278)
-- [Lab 3 ](https://t.me/c/1789230036/279)
-- [Lab 4 ](https://t.me/c/1789230036/280)
-- [Lab 5 ](https://t.me/c/1789230036/281)
-- [Lab 6 ](https://t.me/c/1789230036/282)
-- [Lab 7 ](https://t.me/c/1789230036/283)
+- [Lab 1.1](https://t.me/c/1789230036/276)
+- [Lab 1.2](https://t.me/c/1789230036/277)
+- [Lab 2](https://t.me/c/1789230036/278)
+- [Lab 3](https://t.me/c/1789230036/279)
+- [Lab 4](https://t.me/c/1789230036/280)
+- [Lab 5](https://t.me/c/1789230036/281)
+- [Lab 6](https://t.me/c/1789230036/282)
+- [Lab 7](https://t.me/c/1789230036/283)
 - [Lab 8](https://t.me/c/1789230036/284)
 - [Lecture 1](https://t.me/c/1789230036/285)
 - [Lecture 2](https://t.me/c/1789230036/286)
@@ -152,6 +147,7 @@ Dautov's labs
 - [Lecture 10](https://t.me/c/1789230036/294)
 - [Lecture 11](https://t.me/c/1789230036/295)
 - [Lecture 12](https://t.me/c/1789230036/296)
+
 </details>
 
 ## MS20
@@ -176,6 +172,7 @@ Dautov's labs
 - [10. LMI-based explicit MPC](https://t.me/c/1789230036/232)
 - [11. SDP, ellipsoids](https://t.me/c/1789230036/233)
 - [12. Mixed-Integer Convex Programming](https://t.me/c/1789230036/234)
+
 </details>
 
 ## BS19
@@ -210,6 +207,7 @@ Dautov's labs
 - [7. Gradient Clipping](https://t.me/c/1789230036/214)
 - [8. Data Augmentation](https://t.me/c/1789230036/215)
 - [9. Pretrained Layers and Modules](https://t.me/c/1789230036/216)
+
 </details>
 
 #### F21 - ML Lectures
@@ -226,6 +224,7 @@ Dautov's labs
 - [Lecture 11, Ensemble methods](https://t.me/c/1789230036/204)
 - [Lecture 12, Clustering](https://t.me/c/1789230036/205)
 - [Lecture 13, GANs](https://t.me/c/1789230036/206)
+
 </details>
 
 #### F21 - PP
@@ -249,6 +248,7 @@ Dautov's labs
 - [Lecture 11. Lists and arithmetic in Prolog](https://t.me/c/1789230036/195)
 - [Lecture 12. Cut and negation as failure in Prolog](https://t.me/c/1789230036/196)
 - [Solutions to pre final exam questions](https://t.me/c/1789230036/197)
+
 </details>
 
 #### F21 - SSAD
@@ -273,14 +273,14 @@ Dautov's labs
 - [Lecture 14, Test Patterns and Anti-Patterns](https://t.me/c/1789230036/179)
 - [Lecture 15, Coupling & Cohesion and Other Metrics](https://t.me/c/1789230036/180)
 - [Lecture 16, Future of Software Design](https://t.me/c/1789230036/181)
+
 </details>
 
 #### TM
 
 TODO
 
-<!-- [YT](https://www.youtube.com/playlist?list=PLtFS7FHavVl_DAnHFNvqVZMaEPHdYuhH6) -->
-
+[YT](https://www.youtube.com/playlist?list=PLtFS7FHavVl_DAnHFNvqVZMaEPHdYuhH6)
 
 ### S21
 
@@ -288,12 +288,15 @@ TODO
 
 TODO
 
-<!-- [YT](https://youtube.com/playlist?list=PLB6s35Ya4Paovn_wKttoAg3IrHTZSPMjy) -->
+[YT](https://youtube.com/playlist?list=PLB6s35Ya4Paovn_wKttoAg3IrHTZSPMjy)
 
-#BS19, #S21, #AI, Lecture 3
-#BS19, #S21, #AI, Lecture 4
-#BS19, #S21, #AI, Lecture 5
-#BS19, #S21, #AI, Lecture 6
+# BS19, #S21, #AI, Lecture 3
+
+# BS19, #S21, #AI, Lecture 4
+
+# BS19, #S21, #AI, Lecture 5
+
+# BS19, #S21, #AI, Lecture 6
 
 #### F21 - CT
 
@@ -313,6 +316,7 @@ TODO
 - [Lecture 12 Manipulator eq, Linearization [ver. 2]](https://t.me/c/1789230036/162)
 - [Lecture 13, Explicit constraints](https://t.me/c/1789230036/163)
 - [Lecture 14, SRD](https://t.me/c/1789230036/164)
+
 </details>
 
 #### F21 - DB
@@ -358,6 +362,7 @@ TODO
 - [Week 12, Optional lecture](https://t.me/c/1789230036/138)
 - [Week 13, Lecture](https://t.me/c/1789230036/139)
 - [Week 14, Colloquium for volunteers](https://t.me/c/1789230036/140)
+
 </details>
 
 ##### F20 - DE - Tutorials
@@ -389,7 +394,6 @@ TODO
 - [22. Tutorial - Systems](https://t.me/c/1789230036/318)
 
 </details>
-
 
 #### F20 - Phy I
 
@@ -480,6 +484,7 @@ TODO
 - [Week 12, Lecture](https://t.me/c/1789230036/88)
 - [Week 13, Lab](https://t.me/c/1789230036/89)
 - [Week 13, Lecture](https://t.me/c/1789230036/90)
+
 </details>
 
 ### S20
@@ -505,6 +510,7 @@ TODO
 - [Week 12, Ramil Dautov's lab, in English](https://t.me/c/1789230036/49)
 - [Week 13](https://t.me/c/1789230036/47)
 - [Week 14](https://t.me/c/1789230036/48)
+
 </details>
 
 ## BS18
