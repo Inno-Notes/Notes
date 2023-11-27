@@ -399,6 +399,8 @@
 
 ## Abbreviations
 
+### Course names
+
 * **ACCPA** - Advanced Compilers Construction and Program Analysis
 * **AGLA** - Analytical Geometry & Linear Algebra
 * **AI** - Artificial Intelligence
@@ -434,7 +436,12 @@
 * **SS** - Sensors & Sensing
 * **SSAD** - Software Systems Analysis and Development
 * **TM** - Theoretical Mechanics
-* **TrackName-T** - specific to `TrackName` track
+
+### Track names
+
+* **DS-T** - Data Science
+* **RO-T** - Robotics
+* **SE-T** - Software Engineering
 
 ## Other resources
 
